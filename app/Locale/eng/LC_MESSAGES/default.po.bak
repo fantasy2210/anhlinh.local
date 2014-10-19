@@ -1,0 +1,2616 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-09-17 23:25+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/BaocaotinsController.php:38;72;99
+msgid "Invalid baocaotin"
+msgstr ""
+
+#: Controller/BaocaotinsController.php:53;76
+msgid "The baocaotin has been saved."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:56;79
+msgid "The baocaotin could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:103
+msgid "The baocaotin has been deleted."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:105
+msgid "The baocaotin could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CapbacsController.php:38;70;95
+msgid "Invalid capbac"
+msgstr ""
+
+#: Controller/CapbacsController.php:53;74
+msgid "The capbac has been saved."
+msgstr ""
+
+#: Controller/CapbacsController.php:56;77
+msgid "The capbac could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CapbacsController.php:99
+msgid "The capbac has been deleted."
+msgstr ""
+
+#: Controller/CapbacsController.php:101
+msgid "The capbac could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:38;70;95
+msgid "Invalid chucvuchinhquyen"
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:53;74
+msgid "The chucvuchinhquyen has been saved."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:56;77
+msgid "The chucvuchinhquyen could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:99
+msgid "The chucvuchinhquyen has been deleted."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:101
+msgid "The chucvuchinhquyen could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:38;70;95
+msgid "Invalid chucvudang"
+msgstr ""
+
+#: Controller/ChucvudangsController.php:53;74
+msgid "The chucvudang has been saved."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:56;77
+msgid "The chucvudang could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:99
+msgid "The chucvudang has been deleted."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:101
+msgid "The chucvudang could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:38;72;99
+msgid "Invalid dangkyhoatdong"
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:53;76
+msgid "The dangkyhoatdong has been saved."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:56;79
+msgid "The dangkyhoatdong could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:103
+msgid "The dangkyhoatdong has been deleted."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:105
+msgid "The dangkyhoatdong could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DanhsachesController.php:38;77;109
+msgid "Invalid danhsach"
+msgstr ""
+
+#: Controller/DanhsachesController.php:53;81
+msgid "The danhsach has been saved."
+msgstr ""
+
+#: Controller/DanhsachesController.php:56;84
+msgid "The danhsach could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DanhsachesController.php:113
+msgid "The danhsach has been deleted."
+msgstr ""
+
+#: Controller/DanhsachesController.php:115
+msgid "The danhsach could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DaosController.php:38;70;95
+msgid "Invalid dao"
+msgstr ""
+
+#: Controller/DaosController.php:53;74
+msgid "The dao has been saved."
+msgstr ""
+
+#: Controller/DaosController.php:56;77
+msgid "The dao could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DaosController.php:99
+msgid "The dao has been deleted."
+msgstr ""
+
+#: Controller/DaosController.php:101
+msgid "The dao could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DonvisController.php:38;74;103
+msgid "Invalid donvi"
+msgstr ""
+
+#: Controller/DonvisController.php:53;78
+msgid "The donvi has been saved."
+msgstr ""
+
+#: Controller/DonvisController.php:56;81
+msgid "The donvi could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DonvisController.php:107
+msgid "The donvi has been deleted."
+msgstr ""
+
+#: Controller/DonvisController.php:109
+msgid "The donvi could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HuyensController.php:38;72;99
+msgid "Invalid huyen"
+msgstr ""
+
+#: Controller/HuyensController.php:53;76
+msgid "The huyen has been saved."
+msgstr ""
+
+#: Controller/HuyensController.php:56;79
+msgid "The huyen could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/HuyensController.php:103
+msgid "The huyen has been deleted."
+msgstr ""
+
+#: Controller/HuyensController.php:105
+msgid "The huyen could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:38;70;95
+msgid "Invalid loaiquanhe"
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:53;74
+msgid "The loaiquanhe has been saved."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:56;77
+msgid "The loaiquanhe could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:99
+msgid "The loaiquanhe has been deleted."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:101
+msgid "The loaiquanhe could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoaitausController.php:38;70;95
+msgid "Invalid Loaitau"
+msgstr ""
+
+#: Controller/LoaitausController.php:53;74
+msgid "The Loaitau has been saved."
+msgstr ""
+
+#: Controller/LoaitausController.php:56;77
+msgid "The Loaitau could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoaitausController.php:99
+msgid "The Loaitau has been deleted."
+msgstr ""
+
+#: Controller/LoaitausController.php:101
+msgid "The Loaitau could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:38;73;101
+msgid "Invalid quanhegiadinh"
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:53;77
+msgid "The quanhegiadinh has been saved."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:56;80
+msgid "The quanhegiadinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:105
+msgid "The quanhegiadinh has been deleted."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:107
+msgid "The quanhegiadinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:38;76;107
+msgid "Invalid quatrinhcongtac"
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:53;80
+msgid "The quatrinhcongtac has been saved."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:56;83
+msgid "The quatrinhcongtac could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:111
+msgid "The quatrinhcongtac has been deleted."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:113
+msgid "The quatrinhcongtac could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuocgiasController.php:38;70
+msgid "Invalid Quocgia"
+msgstr ""
+
+#: Controller/QuocgiasController.php:53;74
+msgid "The Quocgia has been saved."
+msgstr ""
+
+#: Controller/QuocgiasController.php:56;77
+msgid "The Quocgia could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuocgiasController.php:95
+msgid "Invalid quocgium"
+msgstr ""
+
+#: Controller/QuocgiasController.php:99
+msgid "The quocgium has been deleted."
+msgstr ""
+
+#: Controller/QuocgiasController.php:101
+msgid "The quocgium could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:38;70;95
+msgid "Invalid Taucannbatgiu"
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:53;74
+msgid "The Taucannbatgiu has been saved."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:56;77
+msgid "The Taucannbatgiu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:99
+msgid "The Taucannbatgiu has been deleted."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:101
+msgid "The Taucannbatgiu could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TaucasController.php:38;72;99
+msgid "Invalid tauca"
+msgstr ""
+
+#: Controller/TaucasController.php:53;76
+msgid "The tauca has been saved."
+msgstr ""
+
+#: Controller/TaucasController.php:56;79
+msgid "The tauca could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaucasController.php:103
+msgid "The tauca has been deleted."
+msgstr ""
+
+#: Controller/TaucasController.php:105
+msgid "The tauca could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ThoitietsController.php:38;72;99
+msgid "Invalid thoitiet"
+msgstr ""
+
+#: Controller/ThoitietsController.php:53;76
+msgid "The thoitiet has been saved."
+msgstr ""
+
+#: Controller/ThoitietsController.php:56;79
+msgid "The thoitiet could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ThoitietsController.php:103
+msgid "The thoitiet has been deleted."
+msgstr ""
+
+#: Controller/ThoitietsController.php:105
+msgid "The thoitiet could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:38;75;105
+msgid "Invalid tinhhinh"
+msgstr ""
+
+#: Controller/TinhhinhsController.php:53;79
+msgid "The tinhhinh has been saved."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:56;82
+msgid "The tinhhinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:109
+msgid "The tinhhinh has been deleted."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:111
+msgid "The tinhhinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TinhsController.php:38;70;95
+msgid "Invalid tinh"
+msgstr ""
+
+#: Controller/TinhsController.php:53;74
+msgid "The tinh has been saved."
+msgstr ""
+
+#: Controller/TinhsController.php:56;77
+msgid "The tinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TinhsController.php:99
+msgid "The tinh has been deleted."
+msgstr ""
+
+#: Controller/TinhsController.php:101
+msgid "The tinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VungbiensController.php:38;70;95
+msgid "Invalid vungbien"
+msgstr ""
+
+#: Controller/VungbiensController.php:53;74
+msgid "The vungbien has been saved."
+msgstr ""
+
+#: Controller/VungbiensController.php:56;77
+msgid "The vungbien could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VungbiensController.php:99
+msgid "The vungbien has been deleted."
+msgstr ""
+
+#: Controller/VungbiensController.php:101
+msgid "The vungbien could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/XasController.php:38;72;99
+msgid "Invalid xa"
+msgstr ""
+
+#: Controller/XasController.php:53;76
+msgid "The xa has been saved."
+msgstr ""
+
+#: Controller/XasController.php:56;79
+msgid "The xa could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/XasController.php:103
+msgid "The xa has been deleted."
+msgstr ""
+
+#: Controller/XasController.php:105
+msgid "The xa could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:38;73;101
+msgid "Invalid ykienchidao"
+msgstr ""
+
+#: Controller/YkienchidaosController.php:53;77
+msgid "The ykienchidao has been saved."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:56;80
+msgid "The ykienchidao could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:105
+msgid "The ykienchidao has been deleted."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:107
+msgid "The ykienchidao could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:38;70;95
+msgid "Invalid ykiendonggop"
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:53;74
+msgid "The ykiendonggop has been saved."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:56;77
+msgid "The ykiendonggop could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:99
+msgid "The ykiendonggop has been deleted."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:101
+msgid "The ykiendonggop could not be deleted. Please, try again."
+msgstr ""
+
+#: View/Baocaotins/add.ctp:6
+msgid "Add Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/add.ctp:21
+#: View/Baocaotins/edit.ctp:22
+#: View/Danhsaches/add.ctp:30
+#: View/Danhsaches/edit.ctp:31
+#: View/Danhsaches/index.ctp:30
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Baocaotins"
+msgstr ""
+
+#: View/Baocaotins/add.ctp:22
+#: View/Baocaotins/edit.ctp:23
+#: View/Baocaotins/index.ctp:22
+#: View/Capbacs/add.ctp:22
+#: View/Capbacs/edit.ctp:23
+#: View/Capbacs/index.ctp:22
+#: View/Chucvuchinhquyens/add.ctp:22
+#: View/Chucvuchinhquyens/edit.ctp:23
+#: View/Chucvuchinhquyens/index.ctp:22
+#: View/Chucvudangs/add.ctp:22
+#: View/Chucvudangs/edit.ctp:23
+#: View/Chucvudangs/index.ctp:22
+#: View/Dangkyhoatdongs/add.ctp:22
+#: View/Dangkyhoatdongs/edit.ctp:23
+#: View/Dangkyhoatdongs/index.ctp:22
+#: View/Danhsaches/add.ctp:21
+#: View/Danhsaches/edit.ctp:22
+#: View/Donvis/add.ctp:28
+#: View/Donvis/edit.ctp:29
+#: View/Donvis/index.ctp:28
+#: View/Quanhegiadinhs/add.ctp:24
+#: View/Quanhegiadinhs/edit.ctp:25
+#: View/Quanhegiadinhs/index.ctp:24
+#: View/Quatrinhcongtacs/add.ctp:30
+#: View/Quatrinhcongtacs/edit.ctp:31
+#: View/Quatrinhcongtacs/index.ctp:30
+#: View/Ykienchidaos/add.ctp:24
+#: View/Ykienchidaos/edit.ctp:25
+#: View/Ykienchidaos/index.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Danhsaches"
+msgstr ""
+
+#: View/Baocaotins/add.ctp:23
+#: View/Baocaotins/edit.ctp:24
+#: View/Baocaotins/index.ctp:23
+#: View/Capbacs/add.ctp:23
+#: View/Capbacs/edit.ctp:24
+#: View/Capbacs/index.ctp:23
+#: View/Capbacs/view.ctp:102
+#: View/Chucvuchinhquyens/add.ctp:23
+#: View/Chucvuchinhquyens/edit.ctp:24
+#: View/Chucvuchinhquyens/index.ctp:23
+#: View/Chucvuchinhquyens/view.ctp:102
+#: View/Chucvudangs/add.ctp:23
+#: View/Chucvudangs/edit.ctp:24
+#: View/Chucvudangs/index.ctp:23
+#: View/Chucvudangs/view.ctp:102
+#: View/Dangkyhoatdongs/add.ctp:23
+#: View/Dangkyhoatdongs/edit.ctp:24
+#: View/Dangkyhoatdongs/index.ctp:23
+#: View/Danhsaches/index.ctp:21
+#: View/Donvis/add.ctp:29
+#: View/Donvis/edit.ctp:30
+#: View/Donvis/index.ctp:29
+#: View/Donvis/view.ctp:152
+#: View/Quanhegiadinhs/add.ctp:25
+#: View/Quanhegiadinhs/edit.ctp:26
+#: View/Quanhegiadinhs/index.ctp:25
+#: View/Quanhegiadinhs/view.ctp:137
+#: View/Quatrinhcongtacs/add.ctp:31
+#: View/Quatrinhcongtacs/edit.ctp:32
+#: View/Quatrinhcongtacs/index.ctp:31
+#: View/Quatrinhcongtacs/view.ctp:150
+#: View/Ykienchidaos/add.ctp:25
+#: View/Ykienchidaos/edit.ctp:26
+#: View/Ykienchidaos/index.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Danhsach"
+msgstr ""
+
+#: View/Baocaotins/add.ctp:60
+#: View/Baocaotins/edit.ctp:64
+#: View/Capbacs/add.ctp:38
+#: View/Capbacs/edit.ctp:42
+#: View/Chucvuchinhquyens/add.ctp:38
+#: View/Chucvuchinhquyens/edit.ctp:42
+#: View/Chucvudangs/add.ctp:38
+#: View/Chucvudangs/edit.ctp:42
+#: View/Dangkyhoatdongs/add.ctp:42
+#: View/Dangkyhoatdongs/edit.ctp:46
+#: View/Danhsaches/add.ctp:82
+#: View/Danhsaches/edit.ctp:86
+#: View/Daos/add.ctp:36
+#: View/Daos/edit.ctp:40
+#: View/Donvis/add.ctp:64
+#: View/Donvis/edit.ctp:68
+#: View/Huyens/add.ctp:43
+#: View/Huyens/edit.ctp:47
+#: View/Loaiquanhes/add.ctp:36
+#: View/Loaiquanhes/edit.ctp:40
+#: View/Loaitaus/add.ctp:34
+#: View/Loaitaus/edit.ctp:38
+#: View/Quanhegiadinhs/add.ctp:56
+#: View/Quanhegiadinhs/edit.ctp:60
+#: View/Quatrinhcongtacs/add.ctp:65
+#: View/Quatrinhcongtacs/edit.ctp:69
+#: View/Quocgias/add.ctp:34
+#: View/Quocgias/edit.ctp:38
+#: View/Taucannbatgius/add.ctp:46
+#: View/Taucannbatgius/edit.ctp:50
+#: View/Thoitiets/add.ctp:42
+#: View/Thoitiets/edit.ctp:46
+#: View/Tinhhinhs/add.ctp:63
+#: View/Tinhhinhs/edit.ctp:67
+#: View/Tinhs/add.ctp:38
+#: View/Tinhs/edit.ctp:42
+#: View/Vungbiens/add.ctp:40
+#: View/Vungbiens/edit.ctp:44
+#: View/Xas/add.ctp:41
+#: View/Xas/edit.ctp:45
+#: View/Ykienchidaos/add.ctp:56
+#: View/Ykienchidaos/edit.ctp:60
+#: View/Ykiendonggops/add.ctp:43
+#: View/Ykiendonggops/edit.ctp:47
+msgid "Submit"
+msgstr "Xác nhận"
+
+#: View/Baocaotins/edit.ctp:6
+msgid "Edit Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/edit.ctp:21
+#: View/Capbacs/edit.ctp:21
+#: View/Chucvuchinhquyens/edit.ctp:21
+#: View/Chucvudangs/edit.ctp:21
+#: View/Dangkyhoatdongs/edit.ctp:21
+#: View/Danhsaches/edit.ctp:21
+#: View/Daos/edit.ctp:21
+#: View/Donvis/edit.ctp:21
+#: View/Huyens/edit.ctp:21
+#: View/Loaiquanhes/edit.ctp:21
+#: View/Loaitaus/edit.ctp:21
+#: View/Quanhegiadinhs/edit.ctp:21
+#: View/Quatrinhcongtacs/edit.ctp:21
+#: View/Quocgias/edit.ctp:21
+#: View/Taucannbatgius/edit.ctp:21
+#: View/Thoitiets/edit.ctp:21
+#: View/Tinhhinhs/edit.ctp:21
+#: View/Tinhs/edit.ctp:21
+#: View/Vungbiens/edit.ctp:21
+#: View/Xas/edit.ctp:21
+#: View/Ykienchidaos/edit.ctp:21
+#: View/Ykiendonggops/edit.ctp:21
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete"
+msgstr ""
+
+#: View/Baocaotins/edit.ctp:21
+#: View/Baocaotins/index.ctp:65
+#: View/Baocaotins/view.ctp:19
+#: View/Capbacs/edit.ctp:21
+#: View/Capbacs/index.ctp:49
+#: View/Capbacs/view.ctp:19;93;138
+#: View/Chucvuchinhquyens/edit.ctp:21
+#: View/Chucvuchinhquyens/index.ctp:49
+#: View/Chucvuchinhquyens/view.ctp:19;93;138
+#: View/Chucvudangs/edit.ctp:21
+#: View/Chucvudangs/index.ctp:49
+#: View/Chucvudangs/view.ctp:19;93;138
+#: View/Dangkyhoatdongs/edit.ctp:21
+#: View/Dangkyhoatdongs/index.ctp:53
+#: View/Dangkyhoatdongs/view.ctp:19
+#: View/Danhsaches/edit.ctp:21
+#: View/Danhsaches/index.ctp:87
+#: View/Danhsaches/view.ctp:19;163;200;245;288;333
+#: View/Daos/edit.ctp:21
+#: View/Daos/index.ctp:47
+#: View/Daos/view.ctp:19;89
+#: View/Donvis/edit.ctp:21
+#: View/Donvis/index.ctp:75
+#: View/Donvis/view.ctp:19;143;188;233
+#: View/Huyens/edit.ctp:21
+#: View/Huyens/index.ctp:55
+#: View/Huyens/view.ctp:19;98;133
+#: View/Loaiquanhes/edit.ctp:21
+#: View/Loaiquanhes/index.ctp:47
+#: View/Loaiquanhes/view.ctp:19;85
+#: View/Loaitaus/edit.ctp:21
+#: View/Loaitaus/index.ctp:45
+#: View/Loaitaus/view.ctp:19
+#: View/Quanhegiadinhs/edit.ctp:21
+#: View/Quanhegiadinhs/index.ctp:61
+#: View/Quanhegiadinhs/view.ctp:19;128
+#: View/Quatrinhcongtacs/edit.ctp:21
+#: View/Quatrinhcongtacs/index.ctp:75
+#: View/Quatrinhcongtacs/view.ctp:19;141
+#: View/Quocgias/edit.ctp:21
+#: View/Quocgias/index.ctp:45
+#: View/Quocgias/view.ctp:19
+#: View/Taucannbatgius/edit.ctp:21
+#: View/Taucannbatgius/index.ctp:53
+#: View/Taucannbatgius/view.ctp:19
+#: View/Thoitiets/edit.ctp:21
+#: View/Thoitiets/index.ctp:53
+#: View/Thoitiets/view.ctp:19
+#: View/Tinhhinhs/edit.ctp:21
+#: View/Tinhhinhs/index.ctp:75
+#: View/Tinhhinhs/view.ctp:19
+#: View/Tinhs/edit.ctp:21
+#: View/Tinhs/index.ctp:49
+#: View/Tinhs/view.ctp:19;89;124
+#: View/Vungbiens/edit.ctp:21
+#: View/Vungbiens/index.ctp:51
+#: View/Vungbiens/view.ctp:19;87;124;171
+#: View/Xas/edit.ctp:21
+#: View/Xas/index.ctp:53
+#: View/Xas/view.ctp:19;96
+#: View/Ykienchidaos/edit.ctp:21
+#: View/Ykienchidaos/index.ctp:65
+#: View/Ykienchidaos/view.ctp:19
+#: View/Ykiendonggops/edit.ctp:21
+#: View/Ykiendonggops/index.ctp:51
+#: View/Ykiendonggops/view.ctp:19
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:6
+msgid "Baocaotins"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:21
+#: View/Danhsaches/add.ctp:31
+#: View/Danhsaches/edit.ctp:32
+#: View/Danhsaches/index.ctp:31
+#: View/Danhsaches/view.ctp:172
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:73
+#: View/Capbacs/index.ctp:57
+#: View/Chucvuchinhquyens/index.ctp:57
+#: View/Chucvudangs/index.ctp:57
+#: View/Dangkyhoatdongs/index.ctp:61
+#: View/Danhsaches/index.ctp:95
+#: View/Daos/index.ctp:55
+#: View/Donvis/index.ctp:83
+#: View/Huyens/index.ctp:63
+#: View/Loaiquanhes/index.ctp:55
+#: View/Loaitaus/index.ctp:53
+#: View/Quanhegiadinhs/index.ctp:69
+#: View/Quatrinhcongtacs/index.ctp:83
+#: View/Quocgias/index.ctp:53
+#: View/Taucannbatgius/index.ctp:61
+#: View/Thoitiets/index.ctp:61
+#: View/Tinhhinhs/index.ctp:83
+#: View/Tinhs/index.ctp:57
+#: View/Vungbiens/index.ctp:59
+#: View/Xas/index.ctp:61
+#: View/Ykienchidaos/index.ctp:73
+#: View/Ykiendonggops/index.ctp:59
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:5
+msgid "Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:20
+#: View/Danhsaches/view.ctp:30
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Baocaotins"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:21
+#: View/Danhsaches/view.ctp:31
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:22
+#: View/Capbacs/view.ctp:22
+#: View/Chucvuchinhquyens/view.ctp:22
+#: View/Chucvudangs/view.ctp:22
+#: View/Dangkyhoatdongs/view.ctp:22
+#: View/Danhsaches/view.ctp:20
+#: View/Donvis/view.ctp:28
+#: View/Quanhegiadinhs/view.ctp:24
+#: View/Quatrinhcongtacs/view.ctp:30
+#: View/Ykienchidaos/view.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Danhsaches"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:23
+#: View/Capbacs/view.ctp:23
+#: View/Chucvuchinhquyens/view.ctp:23
+#: View/Chucvudangs/view.ctp:23
+#: View/Dangkyhoatdongs/view.ctp:23
+#: View/Danhsaches/view.ctp:21
+#: View/Donvis/view.ctp:29
+#: View/Quanhegiadinhs/view.ctp:25
+#: View/Quatrinhcongtacs/view.ctp:31
+#: View/Ykienchidaos/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Danhsach"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:34
+#: View/Capbacs/view.ctp:36;64;113
+#: View/Chucvuchinhquyens/view.ctp:36;64;113
+#: View/Chucvudangs/view.ctp:36;64;113
+#: View/Dangkyhoatdongs/view.ctp:34
+#: View/Danhsaches/view.ctp:50;134;183;220;265;308
+#: View/Daos/view.ctp:34;62
+#: View/Donvis/view.ctp:44;114;163;208
+#: View/Huyens/view.ctp:38;73;118
+#: View/Loaiquanhes/view.ctp:34;62
+#: View/Loaitaus/view.ctp:32
+#: View/Quanhegiadinhs/view.ctp:36;99
+#: View/Quatrinhcongtacs/view.ctp:42;112
+#: View/Quocgias/view.ctp:32
+#: View/Taucannbatgius/view.ctp:32
+#: View/Thoitiets/view.ctp:34
+#: View/Tinhhinhs/view.ctp:40
+#: View/Tinhs/view.ctp:36;64;109
+#: View/Vungbiens/view.ctp:38;66;107;144
+#: View/Xas/view.ctp:36;71
+#: View/Ykienchidaos/view.ctp:36
+#: View/Ykiendonggops/view.ctp:32
+msgid "Id"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:41
+#: View/Danhsaches/view.ctp:135
+msgid "Thoigiannamtin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:48
+#: View/Danhsaches/view.ctp:136
+msgid "Thoigianbaocao"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:55
+#: View/Danhsaches/view.ctp:137
+msgid "Noidungtin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:62
+#: View/Danhsaches/view.ctp:138
+msgid "Nguontin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:69
+#: View/Danhsaches/view.ctp:139
+msgid "Bienphapxuly"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:76
+#: View/Danhsaches/view.ctp:140
+msgid "Dexuat"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:83
+#: View/Danhsaches/view.ctp:141
+msgid "Tunhanxet"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:90
+#: View/Danhsaches/view.ctp:142
+msgid "Ykienchihuy"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:97
+#: View/Dangkyhoatdongs/view.ctp:55
+#: View/Danhsaches/view.ctp:5
+#: View/Ykienchidaos/view.ctp:78
+msgid "Danhsach"
+msgstr ""
+
+#: View/Capbacs/add.ctp:6
+msgid "Add Capbac"
+msgstr ""
+
+#: View/Capbacs/add.ctp:21
+#: View/Capbacs/edit.ctp:22
+#: View/Danhsaches/add.ctp:28
+#: View/Danhsaches/edit.ctp:29
+#: View/Danhsaches/index.ctp:28
+#: View/Quatrinhcongtacs/add.ctp:22
+#: View/Quatrinhcongtacs/edit.ctp:23
+#: View/Quatrinhcongtacs/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Capbacs"
+msgstr ""
+
+#: View/Capbacs/add.ctp:24
+#: View/Capbacs/edit.ctp:25
+#: View/Capbacs/index.ctp:24
+#: View/Chucvuchinhquyens/add.ctp:24
+#: View/Chucvuchinhquyens/edit.ctp:25
+#: View/Chucvuchinhquyens/index.ctp:24
+#: View/Chucvudangs/add.ctp:24
+#: View/Chucvudangs/edit.ctp:25
+#: View/Chucvudangs/index.ctp:24
+#: View/Danhsaches/add.ctp:38
+#: View/Danhsaches/edit.ctp:39
+#: View/Danhsaches/index.ctp:38
+#: View/Donvis/add.ctp:30
+#: View/Donvis/edit.ctp:31
+#: View/Donvis/index.ctp:30
+#: View/Quatrinhcongtacs/add.ctp:21
+#: View/Quatrinhcongtacs/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Quatrinhcongtacs"
+msgstr ""
+
+#: View/Capbacs/add.ctp:25
+#: View/Capbacs/edit.ctp:26
+#: View/Capbacs/index.ctp:25
+#: View/Capbacs/view.ctp:147
+#: View/Chucvuchinhquyens/add.ctp:25
+#: View/Chucvuchinhquyens/edit.ctp:26
+#: View/Chucvuchinhquyens/index.ctp:25
+#: View/Chucvuchinhquyens/view.ctp:147
+#: View/Chucvudangs/add.ctp:25
+#: View/Chucvudangs/edit.ctp:26
+#: View/Chucvudangs/index.ctp:25
+#: View/Chucvudangs/view.ctp:147
+#: View/Danhsaches/add.ctp:39
+#: View/Danhsaches/edit.ctp:40
+#: View/Danhsaches/index.ctp:39
+#: View/Danhsaches/view.ctp:342
+#: View/Donvis/add.ctp:31
+#: View/Donvis/edit.ctp:32
+#: View/Donvis/index.ctp:31
+#: View/Donvis/view.ctp:197
+#: View/Quatrinhcongtacs/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quatrinhcongtac"
+msgstr ""
+
+#: View/Capbacs/edit.ctp:6
+msgid "Edit Capbac"
+msgstr ""
+
+#: View/Capbacs/index.ctp:6
+msgid "Capbacs"
+msgstr ""
+
+#: View/Capbacs/index.ctp:21
+#: View/Danhsaches/add.ctp:29
+#: View/Danhsaches/edit.ctp:30
+#: View/Danhsaches/index.ctp:29
+#: View/Quatrinhcongtacs/add.ctp:23
+#: View/Quatrinhcongtacs/edit.ctp:24
+#: View/Quatrinhcongtacs/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:5
+#: View/Danhsaches/view.ctp:113
+#: View/Quatrinhcongtacs/view.ctp:70
+msgid "Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:20
+#: View/Danhsaches/view.ctp:28
+#: View/Quatrinhcongtacs/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Capbacs"
+msgstr ""
+
+#: View/Capbacs/view.ctp:21
+#: View/Danhsaches/view.ctp:29
+#: View/Quatrinhcongtacs/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:24
+#: View/Chucvuchinhquyens/view.ctp:24
+#: View/Chucvudangs/view.ctp:24
+#: View/Danhsaches/view.ctp:38
+#: View/Donvis/view.ctp:30
+#: View/Quatrinhcongtacs/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Quatrinhcongtacs"
+msgstr ""
+
+#: View/Capbacs/view.ctp:25
+#: View/Chucvuchinhquyens/view.ctp:25
+#: View/Chucvudangs/view.ctp:25
+#: View/Danhsaches/view.ctp:39
+#: View/Donvis/view.ctp:31
+#: View/Quatrinhcongtacs/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Quatrinhcongtac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:43
+#: View/Chucvuchinhquyens/view.ctp:43
+#: View/Chucvudangs/view.ctp:43
+#: View/Daos/view.ctp:41
+#: View/Donvis/view.ctp:51
+#: View/Huyens/view.ctp:45;74;119
+#: View/Loaiquanhes/view.ctp:41
+#: View/Loaitaus/view.ctp:39
+#: View/Quocgias/view.ctp:39
+#: View/Tinhs/view.ctp:43;65;110
+#: View/Vungbiens/view.ctp:45
+#: View/Xas/view.ctp:43;72
+msgid "Ten"
+msgstr "Tên"
+
+#: View/Capbacs/view.ctp:59
+#: View/Chucvuchinhquyens/view.ctp:59
+#: View/Chucvudangs/view.ctp:59
+#: View/Donvis/view.ctp:109
+#: View/Quanhegiadinhs/view.ctp:94
+#: View/Quatrinhcongtacs/view.ctp:107
+msgid "Related Danhsaches"
+msgstr ""
+
+#: View/Capbacs/view.ctp:65
+#: View/Chucvuchinhquyens/view.ctp:65
+#: View/Chucvudangs/view.ctp:65
+#: View/Danhsaches/view.ctp:57;266
+#: View/Donvis/view.ctp:115
+#: View/Loaiquanhes/view.ctp:63
+#: View/Quanhegiadinhs/view.ctp:43;100
+#: View/Quatrinhcongtacs/view.ctp:113
+#: View/Ykiendonggops/view.ctp:60
+msgid "Hovaten"
+msgstr ""
+
+#: View/Capbacs/view.ctp:66
+#: View/Chucvuchinhquyens/view.ctp:66
+#: View/Chucvudangs/view.ctp:66
+#: View/Danhsaches/view.ctp:64
+#: View/Donvis/view.ctp:116
+#: View/Quanhegiadinhs/view.ctp:101
+#: View/Quatrinhcongtacs/view.ctp:114
+msgid "Ngaysinh"
+msgstr ""
+
+#: View/Capbacs/view.ctp:67
+#: View/Chucvuchinhquyens/view.ctp:67
+#: View/Chucvudangs/view.ctp:67
+#: View/Danhsaches/view.ctp:71
+#: View/Donvis/view.ctp:117
+#: View/Quanhegiadinhs/view.ctp:102
+#: View/Quatrinhcongtacs/view.ctp:115
+msgid "Ngaynhapngu"
+msgstr ""
+
+#: View/Capbacs/view.ctp:68
+#: View/Chucvuchinhquyens/view.ctp:68
+#: View/Chucvudangs/view.ctp:68
+#: View/Danhsaches/view.ctp:78
+#: View/Donvis/view.ctp:118
+#: View/Quanhegiadinhs/view.ctp:103
+#: View/Quatrinhcongtacs/view.ctp:116
+msgid "Quequan"
+msgstr ""
+
+#: View/Capbacs/view.ctp:69
+#: View/Chucvuchinhquyens/view.ctp:69
+#: View/Chucvudangs/view.ctp:69
+#: View/Danhsaches/view.ctp:85
+#: View/Donvis/view.ctp:119
+#: View/Quanhegiadinhs/view.ctp:104
+#: View/Quatrinhcongtacs/view.ctp:117
+msgid "Noithuongtru"
+msgstr ""
+
+#: View/Capbacs/view.ctp:70;120
+#: View/Chucvuchinhquyens/view.ctp:70;120
+#: View/Chucvudangs/view.ctp:70;120
+#: View/Danhsaches/view.ctp:225;315
+#: View/Donvis/view.ctp:120;170;213
+#: View/Quanhegiadinhs/view.ctp:105
+#: View/Quatrinhcongtacs/view.ctp:118
+msgid "Donvi Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:71;118
+#: View/Chucvuchinhquyens/view.ctp:71;118
+#: View/Chucvudangs/view.ctp:71;118
+#: View/Danhsaches/view.ctp:313
+#: View/Donvis/view.ctp:121;168
+#: View/Quanhegiadinhs/view.ctp:106
+#: View/Quatrinhcongtacs/view.ctp:119
+msgid "Chucvudang Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:72;119
+#: View/Chucvuchinhquyens/view.ctp:72;119
+#: View/Chucvudangs/view.ctp:72;119
+#: View/Danhsaches/view.ctp:314
+#: View/Donvis/view.ctp:122;169
+#: View/Quanhegiadinhs/view.ctp:107
+#: View/Quatrinhcongtacs/view.ctp:120
+msgid "Chucvuchinhquyen Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:73;117
+#: View/Chucvuchinhquyens/view.ctp:73;117
+#: View/Chucvudangs/view.ctp:73;117
+#: View/Danhsaches/view.ctp:312
+#: View/Donvis/view.ctp:123;167
+#: View/Quanhegiadinhs/view.ctp:108
+#: View/Quatrinhcongtacs/view.ctp:121
+msgid "Capbac Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:91;136
+#: View/Chucvuchinhquyens/view.ctp:91;136
+#: View/Chucvudangs/view.ctp:91;136
+#: View/Danhsaches/view.ctp:161;198;243;286;331
+#: View/Daos/view.ctp:87
+#: View/Donvis/view.ctp:141;186;231
+#: View/Huyens/view.ctp:96;131
+#: View/Loaiquanhes/view.ctp:83
+#: View/Quanhegiadinhs/view.ctp:126
+#: View/Quatrinhcongtacs/view.ctp:139
+#: View/Tinhs/view.ctp:87;122
+#: View/Vungbiens/view.ctp:85;122;169
+#: View/Xas/view.ctp:94
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:92;137
+#: View/Chucvuchinhquyens/view.ctp:92;137
+#: View/Chucvudangs/view.ctp:92;137
+#: View/Danhsaches/view.ctp:162;199;244;287;332
+#: View/Daos/view.ctp:88
+#: View/Donvis/view.ctp:142;187;232
+#: View/Huyens/view.ctp:97;132
+#: View/Loaiquanhes/view.ctp:84
+#: View/Quanhegiadinhs/view.ctp:127
+#: View/Quatrinhcongtacs/view.ctp:140
+#: View/Tinhs/view.ctp:88;123
+#: View/Vungbiens/view.ctp:86;123;170
+#: View/Xas/view.ctp:95
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:93;138
+#: View/Chucvuchinhquyens/view.ctp:93;138
+#: View/Chucvudangs/view.ctp:93;138
+#: View/Danhsaches/view.ctp:163;200;245;288;333
+#: View/Daos/view.ctp:89
+#: View/Donvis/view.ctp:143;188;233
+#: View/Huyens/view.ctp:98;133
+#: View/Loaiquanhes/view.ctp:85
+#: View/Quanhegiadinhs/view.ctp:128
+#: View/Quatrinhcongtacs/view.ctp:141
+#: View/Tinhs/view.ctp:89;124
+#: View/Vungbiens/view.ctp:87;124;171
+#: View/Xas/view.ctp:96
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:108
+#: View/Chucvuchinhquyens/view.ctp:108
+#: View/Chucvudangs/view.ctp:108
+#: View/Danhsaches/view.ctp:303
+#: View/Donvis/view.ctp:158
+msgid "Related Quatrinhcongtacs"
+msgstr ""
+
+#: View/Capbacs/view.ctp:114
+#: View/Chucvuchinhquyens/view.ctp:114
+#: View/Chucvudangs/view.ctp:114
+#: View/Danhsaches/view.ctp:309
+#: View/Donvis/view.ctp:164
+#: View/Quatrinhcongtacs/view.ctp:49
+msgid "Tu"
+msgstr ""
+
+#: View/Capbacs/view.ctp:115
+#: View/Chucvuchinhquyens/view.ctp:115
+#: View/Chucvudangs/view.ctp:115
+#: View/Danhsaches/view.ctp:310
+#: View/Donvis/view.ctp:165
+#: View/Quatrinhcongtacs/view.ctp:56
+msgid "Den"
+msgstr ""
+
+#: View/Capbacs/view.ctp:116
+#: View/Chucvuchinhquyens/view.ctp:116
+#: View/Chucvudangs/view.ctp:116
+#: View/Danhsaches/view.ctp:311
+#: View/Donvis/view.ctp:166
+#: View/Quatrinhcongtacs/view.ctp:63
+msgid "Lamgi"
+msgstr ""
+
+#: View/Chucvuchinhquyens/add.ctp:6
+msgid "Add Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/add.ctp:21
+#: View/Chucvuchinhquyens/edit.ctp:22
+#: View/Danhsaches/add.ctp:26
+#: View/Danhsaches/edit.ctp:27
+#: View/Danhsaches/index.ctp:26
+#: View/Quatrinhcongtacs/add.ctp:26
+#: View/Quatrinhcongtacs/edit.ctp:27
+#: View/Quatrinhcongtacs/index.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Chucvuchinhquyens"
+msgstr ""
+
+#: View/Chucvuchinhquyens/edit.ctp:6
+msgid "Edit Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/index.ctp:6
+msgid "Chucvuchinhquyens"
+msgstr ""
+
+#: View/Chucvuchinhquyens/index.ctp:21
+#: View/Danhsaches/add.ctp:27
+#: View/Danhsaches/edit.ctp:28
+#: View/Danhsaches/index.ctp:27
+#: View/Quatrinhcongtacs/add.ctp:27
+#: View/Quatrinhcongtacs/edit.ctp:28
+#: View/Quatrinhcongtacs/index.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:5
+#: View/Danhsaches/view.ctp:106
+#: View/Quatrinhcongtacs/view.ctp:84
+msgid "Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:20
+#: View/Danhsaches/view.ctp:26
+#: View/Quatrinhcongtacs/view.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Chucvuchinhquyens"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:21
+#: View/Danhsaches/view.ctp:27
+#: View/Quatrinhcongtacs/view.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvudangs/add.ctp:6
+msgid "Add Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/add.ctp:21
+#: View/Chucvudangs/edit.ctp:22
+#: View/Danhsaches/add.ctp:24
+#: View/Danhsaches/edit.ctp:25
+#: View/Danhsaches/index.ctp:24
+#: View/Quatrinhcongtacs/add.ctp:24
+#: View/Quatrinhcongtacs/edit.ctp:25
+#: View/Quatrinhcongtacs/index.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Chucvudangs"
+msgstr ""
+
+#: View/Chucvudangs/edit.ctp:6
+msgid "Edit Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/index.ctp:6
+msgid "Chucvudangs"
+msgstr ""
+
+#: View/Chucvudangs/index.ctp:21
+#: View/Danhsaches/add.ctp:25
+#: View/Danhsaches/edit.ctp:26
+#: View/Danhsaches/index.ctp:25
+#: View/Quatrinhcongtacs/add.ctp:25
+#: View/Quatrinhcongtacs/edit.ctp:26
+#: View/Quatrinhcongtacs/index.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:5
+#: View/Danhsaches/view.ctp:99
+#: View/Quatrinhcongtacs/view.ctp:77
+msgid "Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:20
+#: View/Danhsaches/view.ctp:24
+#: View/Quatrinhcongtacs/view.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Chucvudangs"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:21
+#: View/Danhsaches/view.ctp:25
+#: View/Quatrinhcongtacs/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Chucvudang"
+msgstr ""
+
+#: View/Dangkyhoatdongs/add.ctp:6
+msgid "Add Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/add.ctp:21
+#: View/Dangkyhoatdongs/edit.ctp:22
+#: View/Danhsaches/add.ctp:32
+#: View/Danhsaches/edit.ctp:33
+#: View/Danhsaches/index.ctp:32
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Dangkyhoatdongs"
+msgstr ""
+
+#: View/Dangkyhoatdongs/edit.ctp:6
+msgid "Edit Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/index.ctp:6
+msgid "Dangkyhoatdongs"
+msgstr ""
+
+#: View/Dangkyhoatdongs/index.ctp:21
+#: View/Danhsaches/add.ctp:33
+#: View/Danhsaches/edit.ctp:34
+#: View/Danhsaches/index.ctp:33
+#: View/Danhsaches/view.ctp:209
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:5
+msgid "Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:20
+#: View/Danhsaches/view.ctp:32
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Dangkyhoatdongs"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:21
+#: View/Danhsaches/view.ctp:33
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:41
+#: View/Danhsaches/view.ctp:184;221
+#: View/Daos/view.ctp:63
+#: View/Donvis/view.ctp:209
+#: View/Taucannbatgius/view.ctp:39
+#: View/Thoitiets/view.ctp:41
+#: View/Tinhhinhs/view.ctp:47
+#: View/Vungbiens/view.ctp:67;108;145
+#: View/Ykienchidaos/view.ctp:43
+#: View/Ykiendonggops/view.ctp:39
+msgid "Thoigian"
+msgstr "Thời gian"
+
+#: View/Dangkyhoatdongs/view.ctp:48
+#: View/Danhsaches/view.ctp:185;222
+#: View/Donvis/view.ctp:210
+#: View/Thoitiets/view.ctp:48
+#: View/Vungbiens/view.ctp:109
+#: View/Ykienchidaos/view.ctp:50
+#: View/Ykiendonggops/view.ctp:46
+msgid "Nội dung"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:6
+msgid "Add Danhsach"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:22
+#: View/Danhsaches/edit.ctp:23
+#: View/Danhsaches/index.ctp:22
+#: View/Donvis/add.ctp:21
+#: View/Donvis/edit.ctp:22
+#: View/Huyens/add.ctp:24
+#: View/Huyens/edit.ctp:25
+#: View/Huyens/index.ctp:24
+#: View/Quatrinhcongtacs/add.ctp:28
+#: View/Quatrinhcongtacs/edit.ctp:29
+#: View/Quatrinhcongtacs/index.ctp:28
+#: View/Tinhs/add.ctp:22
+#: View/Tinhs/edit.ctp:23
+#: View/Tinhs/index.ctp:22
+#: View/Xas/add.ctp:24
+#: View/Xas/edit.ctp:25
+#: View/Xas/index.ctp:24
+#: View/Ykienchidaos/add.ctp:22
+#: View/Ykienchidaos/edit.ctp:23
+#: View/Ykienchidaos/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Donvis"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:23
+#: View/Danhsaches/edit.ctp:24
+#: View/Danhsaches/index.ctp:23
+#: View/Donvis/index.ctp:21
+#: View/Huyens/add.ctp:25
+#: View/Huyens/edit.ctp:26
+#: View/Huyens/index.ctp:25
+#: View/Huyens/view.ctp:107
+#: View/Quatrinhcongtacs/add.ctp:29
+#: View/Quatrinhcongtacs/edit.ctp:30
+#: View/Quatrinhcongtacs/index.ctp:29
+#: View/Tinhs/add.ctp:23
+#: View/Tinhs/edit.ctp:24
+#: View/Tinhs/index.ctp:23
+#: View/Tinhs/view.ctp:98
+#: View/Xas/add.ctp:25
+#: View/Xas/edit.ctp:26
+#: View/Xas/index.ctp:25
+#: View/Xas/view.ctp:105
+#: View/Ykienchidaos/add.ctp:23
+#: View/Ykienchidaos/edit.ctp:24
+#: View/Ykienchidaos/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Donvi"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:34
+#: View/Danhsaches/edit.ctp:35
+#: View/Danhsaches/index.ctp:34
+#: View/Donvis/add.ctp:32
+#: View/Donvis/edit.ctp:33
+#: View/Donvis/index.ctp:32
+#: View/Ykienchidaos/add.ctp:21
+#: View/Ykienchidaos/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Ykienchidaos"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:35
+#: View/Danhsaches/edit.ctp:36
+#: View/Danhsaches/index.ctp:35
+#: View/Danhsaches/view.ctp:254
+#: View/Donvis/add.ctp:33
+#: View/Donvis/edit.ctp:34
+#: View/Donvis/index.ctp:33
+#: View/Donvis/view.ctp:242
+#: View/Ykienchidaos/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Ykienchidao"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:36
+#: View/Danhsaches/edit.ctp:37
+#: View/Danhsaches/index.ctp:36
+#: View/Loaiquanhes/add.ctp:22
+#: View/Loaiquanhes/edit.ctp:23
+#: View/Loaiquanhes/index.ctp:22
+#: View/Quanhegiadinhs/add.ctp:21
+#: View/Quanhegiadinhs/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Quanhegiadinhs"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:37
+#: View/Danhsaches/edit.ctp:38
+#: View/Danhsaches/index.ctp:37
+#: View/Danhsaches/view.ctp:297
+#: View/Loaiquanhes/add.ctp:23
+#: View/Loaiquanhes/edit.ctp:24
+#: View/Loaiquanhes/index.ctp:23
+#: View/Loaiquanhes/view.ctp:94
+#: View/Quanhegiadinhs/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quanhegiadinh"
+msgstr ""
+
+#: View/Danhsaches/edit.ctp:6
+msgid "Edit Danhsach"
+msgstr ""
+
+#: View/Danhsaches/index.ctp:6
+msgid "Danhsaches"
+msgstr "Danh sách"
+
+#: View/Danhsaches/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Danhsach"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Danhsach"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:22
+#: View/Donvis/view.ctp:20
+#: View/Huyens/view.ctp:24
+#: View/Quatrinhcongtacs/view.ctp:28
+#: View/Tinhs/view.ctp:22
+#: View/Xas/view.ctp:24
+#: View/Ykienchidaos/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Donvis"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:23
+#: View/Donvis/view.ctp:21
+#: View/Huyens/view.ctp:25
+#: View/Quatrinhcongtacs/view.ctp:29
+#: View/Tinhs/view.ctp:23
+#: View/Xas/view.ctp:25
+#: View/Ykienchidaos/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Donvi"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:34
+#: View/Donvis/view.ctp:32
+#: View/Ykienchidaos/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Ykienchidaos"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:35
+#: View/Donvis/view.ctp:33
+#: View/Ykienchidaos/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Ykienchidao"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:36
+#: View/Loaiquanhes/view.ctp:22
+#: View/Quanhegiadinhs/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Quanhegiadinhs"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:37
+#: View/Loaiquanhes/view.ctp:23
+#: View/Quanhegiadinhs/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Quanhegiadinh"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:92
+#: View/Donvis/view.ctp:5
+#: View/Quatrinhcongtacs/view.ctp:91
+#: View/Ykienchidaos/view.ctp:71
+msgid "Donvi"
+msgstr "Đơn vị"
+
+#: View/Danhsaches/view.ctp:129
+msgid "Related Baocaotins"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:143;186;226
+#: View/Donvis/view.ctp:214
+msgid "Danhsach Id"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:178
+msgid "Related Dangkyhoatdongs"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:215
+#: View/Donvis/view.ctp:203
+msgid "Related Ykienchidaos"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:223
+#: View/Donvis/view.ctp:211
+#: View/Ykienchidaos/view.ctp:57
+msgid "Linhvuc"
+msgstr "Lĩnh vực"
+
+#: View/Danhsaches/view.ctp:224
+#: View/Donvis/view.ctp:212
+#: View/Ykienchidaos/view.ctp:64
+msgid "Thoigianhoanthanh"
+msgstr "Thời gian hoàn thành"
+
+#: View/Danhsaches/view.ctp:227
+#: View/Donvis/view.ctp:215
+#: View/Ykienchidaos/view.ctp:85
+msgid "Danhsach Id1"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:260
+#: View/Loaiquanhes/view.ctp:57
+msgid "Related Quanhegiadinhs"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:267
+#: View/Loaiquanhes/view.ctp:64
+#: View/Quanhegiadinhs/view.ctp:50
+msgid "Namsinh"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:268
+#: View/Loaiquanhes/view.ctp:65
+#: View/Quanhegiadinhs/view.ctp:57
+msgid "Quenquan"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:269
+#: View/Loaiquanhes/view.ctp:66
+#: View/Quanhegiadinhs/view.ctp:64
+msgid "Nghenghiep"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:270
+#: View/Loaiquanhes/view.ctp:67
+#: View/Quanhegiadinhs/view.ctp:71
+msgid "Tinhtrang"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:271
+#: View/Loaiquanhes/view.ctp:68
+msgid "Loaiquanhe Id"
+msgstr ""
+
+#: View/Daos/add.ctp:6
+msgid "Add Dao"
+msgstr ""
+
+#: View/Daos/add.ctp:21
+#: View/Daos/edit.ctp:22
+#: View/Tinhhinhs/add.ctp:22
+#: View/Tinhhinhs/edit.ctp:23
+#: View/Tinhhinhs/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Daos"
+msgstr ""
+
+#: View/Daos/add.ctp:22
+#: View/Daos/edit.ctp:23
+#: View/Daos/index.ctp:22
+#: View/Tinhhinhs/add.ctp:21
+#: View/Tinhhinhs/edit.ctp:22
+#: View/Vungbiens/add.ctp:26
+#: View/Vungbiens/edit.ctp:27
+#: View/Vungbiens/index.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Tinhhinhs"
+msgstr ""
+
+#: View/Daos/add.ctp:23
+#: View/Daos/edit.ctp:24
+#: View/Daos/index.ctp:23
+#: View/Daos/view.ctp:98
+#: View/Tinhhinhs/index.ctp:21
+#: View/Vungbiens/add.ctp:27
+#: View/Vungbiens/edit.ctp:28
+#: View/Vungbiens/index.ctp:27
+#: View/Vungbiens/view.ctp:180
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Tinhhinh"
+msgstr ""
+
+#: View/Daos/edit.ctp:6
+msgid "Edit Dao"
+msgstr ""
+
+#: View/Daos/index.ctp:6
+msgid "Daos"
+msgstr "Đảo"
+
+#: View/Daos/index.ctp:21
+#: View/Tinhhinhs/add.ctp:23
+#: View/Tinhhinhs/edit.ctp:24
+#: View/Tinhhinhs/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Dao"
+msgstr ""
+
+#: View/Daos/view.ctp:5
+#: View/Tinhhinhs/view.ctp:75
+msgid "Dao"
+msgstr "Đảo"
+
+#: View/Daos/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Dao"
+msgstr ""
+
+#: View/Daos/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Dao"
+msgstr ""
+
+#: View/Daos/view.ctp:20
+#: View/Tinhhinhs/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Daos"
+msgstr ""
+
+#: View/Daos/view.ctp:21
+#: View/Tinhhinhs/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Dao"
+msgstr ""
+
+#: View/Daos/view.ctp:22
+#: View/Tinhhinhs/view.ctp:20
+#: View/Vungbiens/view.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Tinhhinhs"
+msgstr ""
+
+#: View/Daos/view.ctp:23
+#: View/Tinhhinhs/view.ctp:21
+#: View/Vungbiens/view.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Tinhhinh"
+msgstr ""
+
+#: View/Daos/view.ctp:57
+#: View/Vungbiens/view.ctp:139
+msgid "Related Tinhhinhs"
+msgstr ""
+
+#: View/Daos/view.ctp:64
+#: View/Tinhhinhs/view.ctp:54
+#: View/Vungbiens/view.ctp:146
+msgid "Tentau"
+msgstr "Tên tàu"
+
+#: View/Daos/view.ctp:65
+#: View/Tinhhinhs/view.ctp:61
+#: View/Vungbiens/view.ctp:147
+msgid "Khoangcach"
+msgstr "Khoảng cách"
+
+#: View/Daos/view.ctp:66
+#: View/Tinhhinhs/view.ctp:68
+#: View/Vungbiens/view.ctp:148
+msgid "Loaihoatdong"
+msgstr "Loại hoạt động"
+
+#: View/Daos/view.ctp:67
+#: View/Vungbiens/view.ctp:149
+msgid "Dao Id"
+msgstr "Đảo"
+
+#: View/Daos/view.ctp:68
+#: View/Taucannbatgius/view.ctp:60
+#: View/Vungbiens/view.ctp:70;110;150
+msgid "Vungbien Id"
+msgstr "Vùng biển"
+
+#: View/Daos/view.ctp:69
+#: View/Taucannbatgius/view.ctp:53
+#: View/Vungbiens/view.ctp:69;151
+msgid "Quocgia Id"
+msgstr "Quốc gia"
+
+#: View/Daos/view.ctp:70
+#: View/Taucannbatgius/view.ctp:67
+#: View/Vungbiens/view.ctp:71;152
+msgid "Tauca Id"
+msgstr "Tàu cá"
+
+#: View/Donvis/add.ctp:6
+msgid "Add Donvi"
+msgstr ""
+
+#: View/Donvis/add.ctp:22
+#: View/Donvis/edit.ctp:23
+#: View/Donvis/index.ctp:22
+#: View/Huyens/add.ctp:22
+#: View/Huyens/edit.ctp:23
+#: View/Huyens/index.ctp:22
+#: View/Tinhs/add.ctp:21
+#: View/Tinhs/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Tinhs"
+msgstr ""
+
+#: View/Donvis/add.ctp:23
+#: View/Donvis/edit.ctp:24
+#: View/Donvis/index.ctp:23
+#: View/Huyens/add.ctp:23
+#: View/Huyens/edit.ctp:24
+#: View/Huyens/index.ctp:23
+#: View/Tinhs/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Tinh"
+msgstr ""
+
+#: View/Donvis/add.ctp:24
+#: View/Donvis/edit.ctp:25
+#: View/Donvis/index.ctp:24
+#: View/Huyens/add.ctp:21
+#: View/Huyens/edit.ctp:22
+#: View/Tinhs/add.ctp:24
+#: View/Tinhs/edit.ctp:25
+#: View/Tinhs/index.ctp:24
+#: View/Xas/add.ctp:22
+#: View/Xas/edit.ctp:23
+#: View/Xas/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Huyens"
+msgstr ""
+
+#: View/Donvis/add.ctp:25
+#: View/Donvis/edit.ctp:26
+#: View/Donvis/index.ctp:25
+#: View/Huyens/index.ctp:21
+#: View/Tinhs/add.ctp:25
+#: View/Tinhs/edit.ctp:26
+#: View/Tinhs/index.ctp:25
+#: View/Tinhs/view.ctp:133
+#: View/Xas/add.ctp:23
+#: View/Xas/edit.ctp:24
+#: View/Xas/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Huyen"
+msgstr ""
+
+#: View/Donvis/add.ctp:26
+#: View/Donvis/edit.ctp:27
+#: View/Donvis/index.ctp:26
+#: View/Huyens/add.ctp:26
+#: View/Huyens/edit.ctp:27
+#: View/Huyens/index.ctp:26
+#: View/Xas/add.ctp:21
+#: View/Xas/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Xas"
+msgstr ""
+
+#: View/Donvis/add.ctp:27
+#: View/Donvis/edit.ctp:28
+#: View/Donvis/index.ctp:27
+#: View/Huyens/add.ctp:27
+#: View/Huyens/edit.ctp:28
+#: View/Huyens/index.ctp:27
+#: View/Huyens/view.ctp:142
+#: View/Xas/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Xa"
+msgstr ""
+
+#: View/Donvis/edit.ctp:6
+msgid "Edit Donvi"
+msgstr ""
+
+#: View/Donvis/index.ctp:6
+msgid "Donvis"
+msgstr ""
+
+#: View/Donvis/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Donvi"
+msgstr ""
+
+#: View/Donvis/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Donvi"
+msgstr ""
+
+#: View/Donvis/view.ctp:22
+#: View/Huyens/view.ctp:22
+#: View/Tinhs/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Tinhs"
+msgstr ""
+
+#: View/Donvis/view.ctp:23
+#: View/Huyens/view.ctp:23
+#: View/Tinhs/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Tinh"
+msgstr ""
+
+#: View/Donvis/view.ctp:24
+#: View/Huyens/view.ctp:20
+#: View/Tinhs/view.ctp:24
+#: View/Xas/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Huyens"
+msgstr ""
+
+#: View/Donvis/view.ctp:25
+#: View/Huyens/view.ctp:21
+#: View/Tinhs/view.ctp:25
+#: View/Xas/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Huyen"
+msgstr ""
+
+#: View/Donvis/view.ctp:26
+#: View/Huyens/view.ctp:26
+#: View/Xas/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Xas"
+msgstr ""
+
+#: View/Donvis/view.ctp:27
+#: View/Huyens/view.ctp:27
+#: View/Xas/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Xa"
+msgstr ""
+
+#: View/Donvis/view.ctp:58
+#: View/Huyens/view.ctp:75
+#: View/Tinhs/view.ctp:66
+#: View/Xas/view.ctp:73
+msgid "Dienthoai"
+msgstr ""
+
+#: View/Donvis/view.ctp:65
+#: View/Huyens/view.ctp:76
+#: View/Tinhs/view.ctp:67
+#: View/Xas/view.ctp:74
+msgid "Fax"
+msgstr ""
+
+#: View/Donvis/view.ctp:72
+#: View/Huyens/view.ctp:77
+#: View/Tinhs/view.ctp:68
+#: View/Xas/view.ctp:75
+msgid "Website"
+msgstr ""
+
+#: View/Donvis/view.ctp:79
+#: View/Huyens/view.ctp:52
+#: View/Tinhs/view.ctp:5
+msgid "Tinh"
+msgstr ""
+
+#: View/Donvis/view.ctp:86
+#: View/Huyens/view.ctp:5
+#: View/Xas/view.ctp:50
+msgid "Huyen"
+msgstr ""
+
+#: View/Donvis/view.ctp:93
+#: View/Xas/view.ctp:5
+msgid "Xa"
+msgstr ""
+
+#: View/Huyens/add.ctp:6
+msgid "Add Huyen"
+msgstr ""
+
+#: View/Huyens/edit.ctp:6
+msgid "Edit Huyen"
+msgstr ""
+
+#: View/Huyens/index.ctp:6
+msgid "Huyens"
+msgstr ""
+
+#: View/Huyens/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Huyen"
+msgstr ""
+
+#: View/Huyens/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Huyen"
+msgstr ""
+
+#: View/Huyens/view.ctp:68
+#: View/Tinhs/view.ctp:59
+#: View/Xas/view.ctp:66
+msgid "Related Donvis"
+msgstr ""
+
+#: View/Huyens/view.ctp:78
+#: View/Tinhs/view.ctp:69;111
+#: View/Xas/view.ctp:76
+msgid "Tinh Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:79;120
+#: View/Tinhs/view.ctp:70
+#: View/Xas/view.ctp:77
+msgid "Huyen Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:80
+#: View/Tinhs/view.ctp:71
+#: View/Xas/view.ctp:78
+msgid "Xa Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:113
+msgid "Related Xas"
+msgstr ""
+
+#: View/Loaiquanhes/add.ctp:6
+msgid "Add Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/add.ctp:21
+#: View/Loaiquanhes/edit.ctp:22
+#: View/Quanhegiadinhs/add.ctp:22
+#: View/Quanhegiadinhs/edit.ctp:23
+#: View/Quanhegiadinhs/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Loaiquanhes"
+msgstr ""
+
+#: View/Loaiquanhes/edit.ctp:6
+msgid "Edit Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/index.ctp:6
+msgid "Loaiquanhes"
+msgstr ""
+
+#: View/Loaiquanhes/index.ctp:21
+#: View/Quanhegiadinhs/add.ctp:23
+#: View/Quanhegiadinhs/edit.ctp:24
+#: View/Quanhegiadinhs/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:5
+#: View/Quanhegiadinhs/view.ctp:78
+msgid "Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:20
+#: View/Quanhegiadinhs/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Loaiquanhes"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:21
+#: View/Quanhegiadinhs/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Loaiquanhe"
+msgstr ""
+
+#: View/Loaitaus/add.ctp:6
+msgid "Add Loaitause"
+msgstr "Thêm mới loại tàu"
+
+#: View/Loaitaus/add.ctp:21
+#: View/Loaitaus/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Loaitauses"
+msgstr ""
+
+#: View/Loaitaus/edit.ctp:6
+msgid "Edit Loaitause"
+msgstr ""
+
+#: View/Loaitaus/index.ctp:6
+msgid "Loaitauses"
+msgstr ""
+
+#: View/Loaitaus/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Loaitause"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:5
+msgid "Loaitause"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Loaitause"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Loaitause"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Loaitauses"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Loaitause"
+msgstr ""
+
+#: View/Quanhegiadinhs/add.ctp:6
+msgid "Add Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/edit.ctp:6
+msgid "Edit Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/index.ctp:6
+msgid "Quanhegiadinhs"
+msgstr ""
+
+#: View/Quanhegiadinhs/view.ctp:5
+msgid "Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Quanhegiadinh"
+msgstr ""
+
+#: View/Quatrinhcongtacs/add.ctp:6
+msgid "Add Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/edit.ctp:6
+msgid "Edit Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/index.ctp:6
+msgid "Quatrinhcongtacs"
+msgstr ""
+
+#: View/Quatrinhcongtacs/view.ctp:5
+msgid "Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Quatrinhcongtac"
+msgstr ""
+
+#: View/Quocgias/add.ctp:6
+msgid "Add Quocgium"
+msgstr ""
+
+#: View/Quocgias/add.ctp:21
+#: View/Quocgias/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Quocgia"
+msgstr ""
+
+#: View/Quocgias/edit.ctp:6
+msgid "Edit Quocgium"
+msgstr ""
+
+#: View/Quocgias/index.ctp:6
+#: View/Tinhhinhs/view.ctp:89
+msgid "Quocgia"
+msgstr ""
+
+#: View/Quocgias/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quocgium"
+msgstr ""
+
+#: View/Quocgias/view.ctp:5
+msgid "Quocgium"
+msgstr ""
+
+#: View/Quocgias/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Quocgia"
+msgstr ""
+
+#: View/Quocgias/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Quocgia"
+msgstr ""
+
+#: View/Quocgias/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Quocgia"
+msgstr ""
+
+#: View/Quocgias/view.ctp:21
+#: View/Tinhhinhs/view.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Quocgia"
+msgstr ""
+
+#: View/Taucannbatgius/add.ctp:6
+msgid "Add Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/add.ctp:21
+#: View/Taucannbatgius/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Taucannbatgiuses"
+msgstr ""
+
+#: View/Taucannbatgius/edit.ctp:6
+msgid "Edit Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/index.ctp:6
+msgid "Taucannbatgiuses"
+msgstr ""
+
+#: View/Taucannbatgius/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:5
+msgid "Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Taucannbatgiu"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Taucannbatgiu"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Taucannbatgiuses"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:21
+#: View/Vungbiens/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Taucannbatgiu"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:46
+#: View/Vungbiens/view.ctp:68
+msgid "Toado"
+msgstr "Rọa độ"
+
+#: View/Thoitiets/add.ctp:6
+msgid "Add Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/add.ctp:21
+#: View/Thoitiets/edit.ctp:22
+#: View/Vungbiens/add.ctp:24
+#: View/Vungbiens/edit.ctp:25
+#: View/Vungbiens/index.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Thoitiets"
+msgstr ""
+
+#: View/Thoitiets/add.ctp:22
+#: View/Thoitiets/edit.ctp:23
+#: View/Thoitiets/index.ctp:22
+#: View/Tinhhinhs/add.ctp:24
+#: View/Tinhhinhs/edit.ctp:25
+#: View/Tinhhinhs/index.ctp:24
+#: View/Vungbiens/add.ctp:21
+#: View/Vungbiens/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Vungbiens"
+msgstr ""
+
+#: View/Thoitiets/add.ctp:23
+#: View/Thoitiets/edit.ctp:24
+#: View/Thoitiets/index.ctp:23
+#: View/Tinhhinhs/add.ctp:25
+#: View/Tinhhinhs/edit.ctp:26
+#: View/Tinhhinhs/index.ctp:25
+#: View/Vungbiens/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Vungbien"
+msgstr ""
+
+#: View/Thoitiets/edit.ctp:6
+msgid "Edit Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/index.ctp:6
+msgid "Thoitiets"
+msgstr ""
+
+#: View/Thoitiets/index.ctp:21
+#: View/Vungbiens/add.ctp:25
+#: View/Vungbiens/edit.ctp:26
+#: View/Vungbiens/index.ctp:25
+#: View/Vungbiens/view.ctp:133
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:5
+msgid "Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:20
+#: View/Vungbiens/view.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Thoitiets"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:21
+#: View/Vungbiens/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:22
+#: View/Tinhhinhs/view.ctp:24
+#: View/Vungbiens/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Vungbiens"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:23
+#: View/Tinhhinhs/view.ctp:25
+#: View/Vungbiens/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Vungbien"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:55
+#: View/Tinhhinhs/view.ctp:82
+#: View/Vungbiens/view.ctp:5
+msgid "Vungbien"
+msgstr "Vùng biển"
+
+#: View/Tinhhinhs/add.ctp:6
+msgid "Add Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/add.ctp:26
+#: View/Tinhhinhs/edit.ctp:27
+#: View/Tinhhinhs/index.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Quocgias"
+msgstr ""
+
+#: View/Tinhhinhs/add.ctp:27
+#: View/Tinhhinhs/edit.ctp:28
+#: View/Tinhhinhs/index.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quocgia"
+msgstr ""
+
+#: View/Tinhhinhs/add.ctp:28
+#: View/Tinhhinhs/edit.ctp:29
+#: View/Tinhhinhs/index.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Taucas"
+msgstr ""
+
+#: View/Tinhhinhs/add.ctp:29
+#: View/Tinhhinhs/edit.ctp:30
+#: View/Tinhhinhs/index.ctp:29
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Tauca"
+msgstr ""
+
+#: View/Tinhhinhs/edit.ctp:6
+msgid "Edit Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/index.ctp:6
+msgid "Tinhhinhs"
+msgstr "Tình hình"
+
+#: View/Tinhhinhs/view.ctp:5
+msgid "Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:26
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Quocgias"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Taucas"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:29
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Tauca"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:96
+msgid "Tàu cá"
+msgstr ""
+
+#: View/Tinhs/add.ctp:6
+msgid "Add Tinh"
+msgstr ""
+
+#: View/Tinhs/edit.ctp:6
+msgid "Edit Tinh"
+msgstr ""
+
+#: View/Tinhs/index.ctp:6
+msgid "Tinhs"
+msgstr "Tỉnh"
+
+#: View/Tinhs/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Tinh"
+msgstr ""
+
+#: View/Tinhs/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Tinh"
+msgstr ""
+
+#: View/Tinhs/view.ctp:104
+msgid "Related Huyens"
+msgstr ""
+
+#: View/Vungbiens/add.ctp:6
+msgid "Add Vungbien"
+msgstr ""
+
+#: View/Vungbiens/add.ctp:22
+#: View/Vungbiens/edit.ctp:23
+#: View/Vungbiens/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Taucannbatgius"
+msgstr ""
+
+#: View/Vungbiens/add.ctp:23
+#: View/Vungbiens/edit.ctp:24
+#: View/Vungbiens/index.ctp:23
+#: View/Vungbiens/view.ctp:96
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Taucannbatgiu"
+msgstr ""
+
+#: View/Vungbiens/edit.ctp:6
+msgid "Edit Vungbien"
+msgstr ""
+
+#: View/Vungbiens/index.ctp:6
+msgid "Vungbiens"
+msgstr "Vùng biển"
+
+#: View/Vungbiens/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Vungbien"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Vungbien"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Taucannbatgius"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:61
+msgid "Related Taucannbatgius"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:102
+msgid "Related Thoitiets"
+msgstr ""
+
+#: View/Xas/add.ctp:6
+msgid "Add Xa"
+msgstr ""
+
+#: View/Xas/edit.ctp:6
+msgid "Edit Xa"
+msgstr ""
+
+#: View/Xas/index.ctp:6
+msgid "Xas"
+msgstr "Xã"
+
+#: View/Xas/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Xa"
+msgstr ""
+
+#: View/Xas/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Xa"
+msgstr ""
+
+#: View/Ykienchidaos/add.ctp:6
+msgid "Add Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/edit.ctp:6
+msgid "Edit Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/index.ctp:6
+msgid "Ykienchidaos"
+msgstr "Ý kiến chỉ đạo"
+
+#: View/Ykienchidaos/view.ctp:5
+msgid "Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Ykienchidao"
+msgstr ""
+
+#: View/Ykiendonggops/add.ctp:6
+msgid "Add Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/add.ctp:21
+#: View/Ykiendonggops/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Ykiendonggops"
+msgstr ""
+
+#: View/Ykiendonggops/edit.ctp:6
+msgid "Edit Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/index.ctp:6
+msgid "Ykiendonggops"
+msgstr ""
+
+#: View/Ykiendonggops/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:5
+msgid "Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Ykiendonggops"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:53
+msgid "Lydo"
+msgstr ""
+
+#: Model/Huyen.php:validation for field tinh_id
+msgid "numeric"
+msgstr ""
+
+#: webroot/test.php:93
+msgid "Loaitaus"
+msgstr "Loại tàu cá"
+
+#: webroot/test.php:93
+msgid "Kyhieu"
+msgstr "Ký hiệu"
+
+#: webroot/test.php:93
+msgid "Sohieu"
+msgstr "Số hiệu"
+
+#: webroot/test.php:93
+msgid "Tenchutau"
+msgstr "Tên chủ tàu"
+
+#: webroot/test.php:93
+msgid "Thuyentruong"
+msgstr "Thuyền trưởng"
+
+#: webroot/test.php:93
+msgid "Loaitau"
+msgstr "Loại tàu"
+
+#: webroot/test.php:93
+msgid "Taucas"
+msgstr "Danh sách tàu cá"
+
+#: webroot/test.php:93
+msgid "So"
+msgstr "Số"
+
+#: webroot/test.php:93
+msgid "Loaivanban"
+msgstr "Loại văn bản"
+
+#: webroot/test.php:93
+msgid "Ngayvanban"
+msgstr "Ngày văn bản"
+
+#: webroot/test.php:93
+msgid "Ngaynhan"
+msgstr "Ngày nhận"
+
+#: webroot/test.php:93
+msgid "Tenvanban"
+msgstr "Tên văn bản"
+
+#: webroot/test.php:93
+msgid "Noigui"
+msgstr "Nơi gửi"
+
+#: webroot/test.php:93
+msgid "Nguoiky"
+msgstr "Người ký"
+
+#: webroot/test.php:93
+msgid "Domat"
+msgstr "Độ mật"
+
+#: webroot/test.php:93
+msgid "Nguoiduyet"
+msgstr "Người duyệt"
+
+#: webroot/test.php:93
+msgid "Nguoinhan"
+msgstr "Người nhận"
+
+#: webroot/test.php:93
+msgid "Noidungchidao"
+msgstr "Nội dung chỉ đạo"
+
+#: webroot/test.php:93
+msgid "Noidungchidao"
+msgstr "Nội dung chỉ đạo"
+
+#: webroot/test.php:93
+msgid "Add Vanbanden"
+msgstr "Thêm văn bản đến"
+
+#: webroot/test.php:93
+msgid "Vanbandens"
+msgstr "Văn bản đến"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

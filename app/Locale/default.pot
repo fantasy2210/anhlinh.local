@@ -1,0 +1,1958 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-09-29 09:42+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Console/Templates/bootstrap/views/form.ctp:45
+msgid "Submit"
+msgstr ""
+
+#: Controller/BaocaotinsController.php:38;72;99
+msgid "Invalid baocaotin"
+msgstr ""
+
+#: Controller/BaocaotinsController.php:53;76
+msgid "The baocaotin has been saved."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:56;79
+msgid "The baocaotin could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:103
+msgid "The baocaotin has been deleted."
+msgstr ""
+
+#: Controller/BaocaotinsController.php:105
+msgid "The baocaotin could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CapbacsController.php:38;70;95
+msgid "Invalid capbac"
+msgstr ""
+
+#: Controller/CapbacsController.php:53;74
+msgid "The capbac has been saved."
+msgstr ""
+
+#: Controller/CapbacsController.php:56;77
+msgid "The capbac could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CapbacsController.php:99
+msgid "The capbac has been deleted."
+msgstr ""
+
+#: Controller/CapbacsController.php:101
+msgid "The capbac could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:38;70;95
+msgid "Invalid chucvuchinhquyen"
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:53;74
+msgid "The chucvuchinhquyen has been saved."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:56;77
+msgid "The chucvuchinhquyen could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:99
+msgid "The chucvuchinhquyen has been deleted."
+msgstr ""
+
+#: Controller/ChucvuchinhquyensController.php:101
+msgid "The chucvuchinhquyen could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:38;70;95
+msgid "Invalid chucvudang"
+msgstr ""
+
+#: Controller/ChucvudangsController.php:53;74
+msgid "The chucvudang has been saved."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:56;77
+msgid "The chucvudang could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:99
+msgid "The chucvudang has been deleted."
+msgstr ""
+
+#: Controller/ChucvudangsController.php:101
+msgid "The chucvudang could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:38;72;99
+msgid "Invalid dangkyhoatdong"
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:53;76
+msgid "The dangkyhoatdong has been saved."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:56;79
+msgid "The dangkyhoatdong could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:103
+msgid "The dangkyhoatdong has been deleted."
+msgstr ""
+
+#: Controller/DangkyhoatdongsController.php:105
+msgid "The dangkyhoatdong could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DanhsachesController.php:38;77;109
+msgid "Invalid danhsach"
+msgstr ""
+
+#: Controller/DanhsachesController.php:53;81
+msgid "The danhsach has been saved."
+msgstr ""
+
+#: Controller/DanhsachesController.php:56;84
+msgid "The danhsach could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DanhsachesController.php:113
+msgid "The danhsach has been deleted."
+msgstr ""
+
+#: Controller/DanhsachesController.php:115
+msgid "The danhsach could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DaosController.php:38;70;95
+msgid "Invalid dao"
+msgstr ""
+
+#: Controller/DaosController.php:53;74
+msgid "The dao has been saved."
+msgstr ""
+
+#: Controller/DaosController.php:56;77
+msgid "The dao could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DaosController.php:99
+msgid "The dao has been deleted."
+msgstr ""
+
+#: Controller/DaosController.php:101
+msgid "The dao could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DonvisController.php:38;74;103
+msgid "Invalid donvi"
+msgstr ""
+
+#: Controller/DonvisController.php:53;78
+msgid "The donvi has been saved."
+msgstr ""
+
+#: Controller/DonvisController.php:56;81
+msgid "The donvi could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DonvisController.php:107
+msgid "The donvi has been deleted."
+msgstr ""
+
+#: Controller/DonvisController.php:109
+msgid "The donvi could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HuyensController.php:38;72;99
+msgid "Invalid huyen"
+msgstr ""
+
+#: Controller/HuyensController.php:53;76
+msgid "The huyen has been saved."
+msgstr ""
+
+#: Controller/HuyensController.php:56;79
+msgid "The huyen could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/HuyensController.php:103
+msgid "The huyen has been deleted."
+msgstr ""
+
+#: Controller/HuyensController.php:105
+msgid "The huyen could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LinhvucsController.php:38;70;95
+msgid "Invalid linhvuc"
+msgstr ""
+
+#: Controller/LinhvucsController.php:53;74
+msgid "The linhvuc has been saved."
+msgstr ""
+
+#: Controller/LinhvucsController.php:56;77
+msgid "The linhvuc could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LinhvucsController.php:99
+msgid "The linhvuc has been deleted."
+msgstr ""
+
+#: Controller/LinhvucsController.php:101
+msgid "The linhvuc could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:38;70;95
+msgid "Invalid loaiquanhe"
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:53;74
+msgid "The loaiquanhe has been saved."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:56;77
+msgid "The loaiquanhe could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:99
+msgid "The loaiquanhe has been deleted."
+msgstr ""
+
+#: Controller/LoaiquanhesController.php:101
+msgid "The loaiquanhe could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoaitausController.php:38;70;95
+msgid "Invalid Loaitau"
+msgstr ""
+
+#: Controller/LoaitausController.php:53;74
+msgid "The Loaitau has been saved."
+msgstr ""
+
+#: Controller/LoaitausController.php:56;77
+msgid "The Loaitau could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoaitausController.php:99
+msgid "The Loaitau has been deleted."
+msgstr ""
+
+#: Controller/LoaitausController.php:101
+msgid "The Loaitau could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoaivanbansController.php:38;70;95
+msgid "Invalid loaivanban"
+msgstr ""
+
+#: Controller/LoaivanbansController.php:53;74
+msgid "The loaivanban has been saved."
+msgstr ""
+
+#: Controller/LoaivanbansController.php:56;77
+msgid "The loaivanban could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoaivanbansController.php:99
+msgid "The loaivanban has been deleted."
+msgstr ""
+
+#: Controller/LoaivanbansController.php:101
+msgid "The loaivanban could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NoiguisController.php:38;70;95
+msgid "Invalid noigui"
+msgstr ""
+
+#: Controller/NoiguisController.php:53;74
+msgid "The noigui has been saved."
+msgstr ""
+
+#: Controller/NoiguisController.php:56;77
+msgid "The noigui could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NoiguisController.php:99
+msgid "The noigui has been deleted."
+msgstr ""
+
+#: Controller/NoiguisController.php:101
+msgid "The noigui could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:38;73;101
+msgid "Invalid quanhegiadinh"
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:53;77
+msgid "The quanhegiadinh has been saved."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:56;80
+msgid "The quanhegiadinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:105
+msgid "The quanhegiadinh has been deleted."
+msgstr ""
+
+#: Controller/QuanhegiadinhsController.php:107
+msgid "The quanhegiadinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:38;76;107
+msgid "Invalid quatrinhcongtac"
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:53;80
+msgid "The quatrinhcongtac has been saved."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:56;83
+msgid "The quatrinhcongtac could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:111
+msgid "The quatrinhcongtac has been deleted."
+msgstr ""
+
+#: Controller/QuatrinhcongtacsController.php:113
+msgid "The quatrinhcongtac could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuocgiaController.php:39;71
+msgid "Invalid Quocgia"
+msgstr ""
+
+#: Controller/QuocgiaController.php:54;75
+msgid "The Quocgia has been saved."
+msgstr ""
+
+#: Controller/QuocgiaController.php:57;78
+msgid "The Quocgia could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuocgiaController.php:96
+msgid "Invalid quocgium"
+msgstr ""
+
+#: Controller/QuocgiaController.php:100
+msgid "The quocgium has been deleted."
+msgstr ""
+
+#: Controller/QuocgiaController.php:102
+msgid "The quocgium could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:38;70;95
+msgid "Invalid Taucannbatgiu"
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:53;74
+msgid "The Taucannbatgiu has been saved."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:56;77
+msgid "The Taucannbatgiu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:99
+msgid "The Taucannbatgiu has been deleted."
+msgstr ""
+
+#: Controller/TaucannbatgiusController.php:101
+msgid "The Taucannbatgiu could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TaucasController.php:38;72;99
+msgid "Invalid tauca"
+msgstr ""
+
+#: Controller/TaucasController.php:53;76
+msgid "The tauca has been saved."
+msgstr ""
+
+#: Controller/TaucasController.php:56;79
+msgid "The tauca could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaucasController.php:103
+msgid "The tauca has been deleted."
+msgstr ""
+
+#: Controller/TaucasController.php:105
+msgid "The tauca could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ThoitietsController.php:38;72;99
+msgid "Invalid thoitiet"
+msgstr ""
+
+#: Controller/ThoitietsController.php:53;76
+msgid "The thoitiet has been saved."
+msgstr ""
+
+#: Controller/ThoitietsController.php:56;79
+msgid "The thoitiet could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ThoitietsController.php:103
+msgid "The thoitiet has been deleted."
+msgstr ""
+
+#: Controller/ThoitietsController.php:105
+msgid "The thoitiet could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:38;75;105
+msgid "Invalid tinhhinh"
+msgstr ""
+
+#: Controller/TinhhinhsController.php:53;79
+msgid "The tinhhinh has been saved."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:56;82
+msgid "The tinhhinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:109
+msgid "The tinhhinh has been deleted."
+msgstr ""
+
+#: Controller/TinhhinhsController.php:111
+msgid "The tinhhinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TinhsController.php:38;70;95
+msgid "Invalid tinh"
+msgstr ""
+
+#: Controller/TinhsController.php:53;74
+msgid "The tinh has been saved."
+msgstr ""
+
+#: Controller/TinhsController.php:56;77
+msgid "The tinh could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TinhsController.php:99
+msgid "The tinh has been deleted."
+msgstr ""
+
+#: Controller/TinhsController.php:101
+msgid "The tinh could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VanbandensController.php:38;76;107
+msgid "Invalid vanbanden"
+msgstr ""
+
+#: Controller/VanbandensController.php:53;80
+msgid "The vanbanden has been saved."
+msgstr ""
+
+#: Controller/VanbandensController.php:56;83
+msgid "The vanbanden could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VanbandensController.php:111
+msgid "The vanbanden has been deleted."
+msgstr ""
+
+#: Controller/VanbandensController.php:113
+msgid "The vanbanden could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VanbandisController.php:38;75;105
+msgid "Invalid vanbandi"
+msgstr ""
+
+#: Controller/VanbandisController.php:53;79
+msgid "The vanbandi has been saved."
+msgstr ""
+
+#: Controller/VanbandisController.php:56;82
+msgid "The vanbandi could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VanbandisController.php:109
+msgid "The vanbandi has been deleted."
+msgstr ""
+
+#: Controller/VanbandisController.php:111
+msgid "The vanbandi could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VungbiensController.php:38;70;95
+msgid "Invalid vungbien"
+msgstr ""
+
+#: Controller/VungbiensController.php:53;74
+msgid "The vungbien has been saved."
+msgstr ""
+
+#: Controller/VungbiensController.php:56;77
+msgid "The vungbien could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VungbiensController.php:99
+msgid "The vungbien has been deleted."
+msgstr ""
+
+#: Controller/VungbiensController.php:101
+msgid "The vungbien could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/XasController.php:38;72;99
+msgid "Invalid xa"
+msgstr ""
+
+#: Controller/XasController.php:53;76
+msgid "The xa has been saved."
+msgstr ""
+
+#: Controller/XasController.php:56;79
+msgid "The xa could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/XasController.php:103
+msgid "The xa has been deleted."
+msgstr ""
+
+#: Controller/XasController.php:105
+msgid "The xa could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:38;73;101
+msgid "Invalid ykienchidao"
+msgstr ""
+
+#: Controller/YkienchidaosController.php:53;77
+msgid "The ykienchidao has been saved."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:56;80
+msgid "The ykienchidao could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:105
+msgid "The ykienchidao has been deleted."
+msgstr ""
+
+#: Controller/YkienchidaosController.php:107
+msgid "The ykienchidao could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:38;70;95
+msgid "Invalid ykiendonggop"
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:53;74
+msgid "The ykiendonggop has been saved."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:56;77
+msgid "The ykiendonggop could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:99
+msgid "The ykiendonggop has been deleted."
+msgstr ""
+
+#: Controller/YkiendonggopsController.php:101
+msgid "The ykiendonggop could not be deleted. Please, try again."
+msgstr ""
+
+#: View/Baocaotins/add.ctp:6
+msgid "Add Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/edit.ctp:6
+msgid "Edit Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:8
+msgid "Baocaotins"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:10
+#: View/Capbacs/index.ctp:10
+#: View/Chucvuchinhquyens/index.ctp:10
+#: View/Chucvudangs/index.ctp:10
+#: View/Dangkyhoatdongs/index.ctp:10
+#: View/Danhsaches/index.ctp:10
+#: View/Daos/index.ctp:10
+#: View/Donvis/index.ctp:10
+#: View/Huyens/index.ctp:10
+#: View/Linhvucs/index.ctp:10
+#: View/Loaiquanhes/index.ctp:10
+#: View/Loaitaus/index.ctp:10
+#: View/Loaivanbans/index.ctp:10
+#: View/Noiguis/index.ctp:10
+#: View/Quanhegiadinhs/index.ctp:10
+#: View/Quatrinhcongtacs/index.ctp:10
+#: View/Quocgia/index.ctp:10
+#: View/Taucannbatgius/index.ctp:10
+#: View/Taucas/index.ctp:10
+#: View/Thoitiets/index.ctp:10
+#: View/Tinhhinhs/index.ctp:10
+#: View/Tinhs/index.ctp:10
+#: View/Vanbandens/index.ctp:10
+#: View/Vanbandis/index.ctp:10
+#: View/Vungbiens/index.ctp:10
+#: View/Xas/index.ctp:10
+#: View/Ykienchidaos/index.ctp:10
+#: View/Ykiendonggops/index.ctp:10
+msgid "<i class=\"fa fa-plus\"></i>&nbsp;Thêm mới"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:57
+#: View/Capbacs/index.ctp:39
+#: View/Capbacs/view.ctp:73;118
+#: View/Chucvuchinhquyens/index.ctp:39
+#: View/Chucvuchinhquyens/view.ctp:73;118
+#: View/Chucvudangs/index.ctp:39
+#: View/Chucvudangs/view.ctp:73;118
+#: View/Dangkyhoatdongs/index.ctp:45
+#: View/Danhsaches/index.ctp:63
+#: View/Danhsaches/view.ctp:129;166;211;254;299
+#: View/Daos/index.ctp:39
+#: View/Daos/view.ctp:71
+#: View/Donvis/index.ctp:57
+#: View/Donvis/view.ctp:115;160;205
+#: View/Huyens/index.ctp:43
+#: View/Huyens/view.ctp:76;111
+#: View/Linhvucs/index.ctp:39
+#: View/Linhvucs/view.ctp:83;136
+#: View/Loaiquanhes/index.ctp:39
+#: View/Loaiquanhes/view.ctp:67
+#: View/Loaitaus/index.ctp:39
+#: View/Loaitaus/view.ctp:75
+#: View/Loaivanbans/index.ctp:39
+#: View/Loaivanbans/view.ctp:83;136
+#: View/Noiguis/index.ctp:43
+#: View/Noiguis/view.ctp:97
+#: View/Quanhegiadinhs/index.ctp:51
+#: View/Quanhegiadinhs/view.ctp:108
+#: View/Quatrinhcongtacs/index.ctp:59
+#: View/Quatrinhcongtacs/view.ctp:115
+#: View/Quocgia/index.ctp:39
+#: View/Taucannbatgius/index.ctp:53
+#: View/Taucas/index.ctp:59
+#: View/Taucas/view.ctp:128;175
+#: View/Thoitiets/index.ctp:45
+#: View/Tinhhinhs/index.ctp:61
+#: View/Tinhs/index.ctp:39
+#: View/Tinhs/view.ctp:69;104
+#: View/Vanbandens/index.ctp:75
+#: View/Vanbandens/view.ctp:168
+#: View/Vanbandis/index.ctp:67
+#: View/Vungbiens/index.ctp:39
+#: View/Vungbiens/view.ctp:65;102;149
+#: View/Xas/index.ctp:43
+#: View/Xas/view.ctp:76
+#: View/Ykienchidaos/index.ctp:55
+#: View/Ykiendonggops/index.ctp:45
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Baocaotins/index.ctp:65
+#: View/Capbacs/index.ctp:47
+#: View/Chucvuchinhquyens/index.ctp:47
+#: View/Chucvudangs/index.ctp:47
+#: View/Dangkyhoatdongs/index.ctp:53
+#: View/Danhsaches/index.ctp:71
+#: View/Daos/index.ctp:47
+#: View/Donvis/index.ctp:65
+#: View/Huyens/index.ctp:51
+#: View/Linhvucs/index.ctp:47
+#: View/Loaiquanhes/index.ctp:47
+#: View/Loaitaus/index.ctp:47
+#: View/Loaivanbans/index.ctp:47
+#: View/Noiguis/index.ctp:51
+#: View/Quanhegiadinhs/index.ctp:59
+#: View/Quatrinhcongtacs/index.ctp:67
+#: View/Quocgia/index.ctp:47
+#: View/Taucannbatgius/index.ctp:61
+#: View/Taucas/index.ctp:67
+#: View/Thoitiets/index.ctp:53
+#: View/Tinhhinhs/index.ctp:69
+#: View/Tinhs/index.ctp:47
+#: View/Vanbandens/index.ctp:83
+#: View/Vanbandis/index.ctp:75
+#: View/Vungbiens/index.ctp:47
+#: View/Xas/index.ctp:51
+#: View/Ykienchidaos/index.ctp:63
+#: View/Ykiendonggops/index.ctp:53
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:5
+msgid "Baocaotin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:16
+#: View/Capbacs/view.ctp:16;44;93
+#: View/Chucvuchinhquyens/view.ctp:16;44;93
+#: View/Chucvudangs/view.ctp:16;44;93
+#: View/Dangkyhoatdongs/view.ctp:16
+#: View/Danhsaches/view.ctp:16;100;149;186;231;274
+#: View/Daos/view.ctp:16;44
+#: View/Donvis/view.ctp:16;86;135;180
+#: View/Huyens/view.ctp:16;51;96
+#: View/Linhvucs/view.ctp:16;44;103
+#: View/Loaiquanhes/view.ctp:16;44
+#: View/Loaitaus/view.ctp:16;44
+#: View/Loaivanbans/view.ctp:16;44;103
+#: View/Noiguis/view.ctp:16;58
+#: View/Quanhegiadinhs/view.ctp:16;79
+#: View/Quatrinhcongtacs/view.ctp:16;86
+#: View/Quocgia/view.ctp:16
+#: View/Taucannbatgius/view.ctp:16
+#: View/Taucas/view.ctp:16;107;148
+#: View/Thoitiets/view.ctp:16
+#: View/Tinhhinhs/view.ctp:16
+#: View/Tinhs/view.ctp:16;44;89
+#: View/Vanbandens/view.ctp:16;135
+#: View/Vanbandis/view.ctp:16
+#: View/Vungbiens/view.ctp:16;44;85;122
+#: View/Xas/view.ctp:16;51
+#: View/Ykienchidaos/view.ctp:16
+#: View/Ykiendonggops/view.ctp:16
+msgid "Id"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:23
+#: View/Danhsaches/view.ctp:101
+msgid "Thoigiannamtin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:30
+#: View/Danhsaches/view.ctp:102
+msgid "Thoigianbaocao"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:37
+#: View/Danhsaches/view.ctp:103
+msgid "Noidungtin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:44
+#: View/Danhsaches/view.ctp:104
+msgid "Nguontin"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:51
+#: View/Danhsaches/view.ctp:105
+msgid "Bienphapxuly"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:58
+#: View/Danhsaches/view.ctp:106
+msgid "Dexuat"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:65
+#: View/Danhsaches/view.ctp:107
+msgid "Tunhanxet"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:72
+#: View/Danhsaches/view.ctp:108
+msgid "Ykienchihuy"
+msgstr ""
+
+#: View/Baocaotins/view.ctp:79
+#: View/Dangkyhoatdongs/view.ctp:37
+#: View/Danhsaches/view.ctp:5
+#: View/Ykienchidaos/view.ctp:58
+msgid "Danhsach"
+msgstr ""
+
+#: View/Capbacs/add.ctp:6
+msgid "Add Capbac"
+msgstr ""
+
+#: View/Capbacs/edit.ctp:6
+msgid "Edit Capbac"
+msgstr ""
+
+#: View/Capbacs/index.ctp:8
+msgid "Capbacs"
+msgstr ""
+
+#: View/Capbacs/view.ctp:5
+#: View/Danhsaches/view.ctp:79
+#: View/Quatrinhcongtacs/view.ctp:44
+msgid "Capbac"
+msgstr ""
+
+#: View/Capbacs/view.ctp:23
+#: View/Chucvuchinhquyens/view.ctp:23
+#: View/Chucvudangs/view.ctp:23
+#: View/Daos/view.ctp:23
+#: View/Donvis/view.ctp:23
+#: View/Huyens/view.ctp:23;52;97
+#: View/Linhvucs/view.ctp:23
+#: View/Loaiquanhes/view.ctp:23
+#: View/Loaitaus/view.ctp:23
+#: View/Loaivanbans/view.ctp:23
+#: View/Noiguis/view.ctp:23
+#: View/Quocgia/view.ctp:23
+#: View/Tinhs/view.ctp:23;45;90
+#: View/Vungbiens/view.ctp:23
+#: View/Xas/view.ctp:23;52
+msgid "Ten"
+msgstr ""
+
+#: View/Capbacs/view.ctp:39
+#: View/Chucvuchinhquyens/view.ctp:39
+#: View/Chucvudangs/view.ctp:39
+#: View/Donvis/view.ctp:81
+#: View/Quanhegiadinhs/view.ctp:74
+#: View/Quatrinhcongtacs/view.ctp:81
+msgid "Related Danhsaches"
+msgstr ""
+
+#: View/Capbacs/view.ctp:45
+#: View/Chucvuchinhquyens/view.ctp:45
+#: View/Chucvudangs/view.ctp:45
+#: View/Danhsaches/view.ctp:23;232
+#: View/Donvis/view.ctp:87
+#: View/Loaiquanhes/view.ctp:45
+#: View/Quanhegiadinhs/view.ctp:23;80
+#: View/Quatrinhcongtacs/view.ctp:87
+#: View/Ykiendonggops/view.ctp:44
+msgid "Hovaten"
+msgstr ""
+
+#: View/Capbacs/view.ctp:46
+#: View/Chucvuchinhquyens/view.ctp:46
+#: View/Chucvudangs/view.ctp:46
+#: View/Danhsaches/view.ctp:30
+#: View/Donvis/view.ctp:88
+#: View/Quanhegiadinhs/view.ctp:81
+#: View/Quatrinhcongtacs/view.ctp:88
+msgid "Ngaysinh"
+msgstr ""
+
+#: View/Capbacs/view.ctp:47
+#: View/Chucvuchinhquyens/view.ctp:47
+#: View/Chucvudangs/view.ctp:47
+#: View/Danhsaches/view.ctp:37
+#: View/Donvis/view.ctp:89
+#: View/Quanhegiadinhs/view.ctp:82
+#: View/Quatrinhcongtacs/view.ctp:89
+msgid "Ngaynhapngu"
+msgstr ""
+
+#: View/Capbacs/view.ctp:48
+#: View/Chucvuchinhquyens/view.ctp:48
+#: View/Chucvudangs/view.ctp:48
+#: View/Danhsaches/view.ctp:44
+#: View/Donvis/view.ctp:90
+#: View/Quanhegiadinhs/view.ctp:83
+#: View/Quatrinhcongtacs/view.ctp:90
+msgid "Quequan"
+msgstr ""
+
+#: View/Capbacs/view.ctp:49
+#: View/Chucvuchinhquyens/view.ctp:49
+#: View/Chucvudangs/view.ctp:49
+#: View/Danhsaches/view.ctp:51
+#: View/Donvis/view.ctp:91
+#: View/Quanhegiadinhs/view.ctp:84
+#: View/Quatrinhcongtacs/view.ctp:91
+msgid "Noithuongtru"
+msgstr ""
+
+#: View/Capbacs/view.ctp:50;100
+#: View/Chucvuchinhquyens/view.ctp:50;100
+#: View/Chucvudangs/view.ctp:50;100
+#: View/Danhsaches/view.ctp:191;281
+#: View/Donvis/view.ctp:92;142;185
+#: View/Quanhegiadinhs/view.ctp:85
+#: View/Quatrinhcongtacs/view.ctp:92
+msgid "Donvi Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:51;98
+#: View/Chucvuchinhquyens/view.ctp:51;98
+#: View/Chucvudangs/view.ctp:51;98
+#: View/Danhsaches/view.ctp:279
+#: View/Donvis/view.ctp:93;140
+#: View/Quanhegiadinhs/view.ctp:86
+#: View/Quatrinhcongtacs/view.ctp:93
+msgid "Chucvudang Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:52;99
+#: View/Chucvuchinhquyens/view.ctp:52;99
+#: View/Chucvudangs/view.ctp:52;99
+#: View/Danhsaches/view.ctp:280
+#: View/Donvis/view.ctp:94;141
+#: View/Quanhegiadinhs/view.ctp:87
+#: View/Quatrinhcongtacs/view.ctp:94
+msgid "Chucvuchinhquyen Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:53;97
+#: View/Chucvuchinhquyens/view.ctp:53;97
+#: View/Chucvudangs/view.ctp:53;97
+#: View/Danhsaches/view.ctp:278
+#: View/Donvis/view.ctp:95;139
+#: View/Quanhegiadinhs/view.ctp:88
+#: View/Quatrinhcongtacs/view.ctp:95
+msgid "Capbac Id"
+msgstr ""
+
+#: View/Capbacs/view.ctp:71;116
+#: View/Chucvuchinhquyens/view.ctp:71;116
+#: View/Chucvudangs/view.ctp:71;116
+#: View/Danhsaches/view.ctp:127;164;209;252;297
+#: View/Daos/view.ctp:69
+#: View/Donvis/view.ctp:113;158;203
+#: View/Huyens/view.ctp:74;109
+#: View/Linhvucs/view.ctp:81;134
+#: View/Loaiquanhes/view.ctp:65
+#: View/Loaitaus/view.ctp:73
+#: View/Loaivanbans/view.ctp:81;134
+#: View/Noiguis/view.ctp:95
+#: View/Quanhegiadinhs/view.ctp:106
+#: View/Quatrinhcongtacs/view.ctp:113
+#: View/Taucas/view.ctp:126;173
+#: View/Tinhs/view.ctp:67;102
+#: View/Vanbandens/view.ctp:166
+#: View/Vungbiens/view.ctp:63;100;147
+#: View/Xas/view.ctp:74
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:72;117
+#: View/Chucvuchinhquyens/view.ctp:72;117
+#: View/Chucvudangs/view.ctp:72;117
+#: View/Danhsaches/view.ctp:128;165;210;253;298
+#: View/Daos/view.ctp:70
+#: View/Donvis/view.ctp:114;159;204
+#: View/Huyens/view.ctp:75;110
+#: View/Linhvucs/view.ctp:82;135
+#: View/Loaiquanhes/view.ctp:66
+#: View/Loaitaus/view.ctp:74
+#: View/Loaivanbans/view.ctp:82;135
+#: View/Noiguis/view.ctp:96
+#: View/Quanhegiadinhs/view.ctp:107
+#: View/Quatrinhcongtacs/view.ctp:114
+#: View/Taucas/view.ctp:127;174
+#: View/Tinhs/view.ctp:68;103
+#: View/Vanbandens/view.ctp:167
+#: View/Vungbiens/view.ctp:64;101;148
+#: View/Xas/view.ctp:75
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:73;118
+#: View/Chucvuchinhquyens/view.ctp:73;118
+#: View/Chucvudangs/view.ctp:73;118
+#: View/Danhsaches/view.ctp:129;166;211;254;299
+#: View/Daos/view.ctp:71
+#: View/Donvis/view.ctp:115;160;205
+#: View/Huyens/view.ctp:76;111
+#: View/Linhvucs/view.ctp:83;136
+#: View/Loaiquanhes/view.ctp:67
+#: View/Loaitaus/view.ctp:75
+#: View/Loaivanbans/view.ctp:83;136
+#: View/Noiguis/view.ctp:97
+#: View/Quanhegiadinhs/view.ctp:108
+#: View/Quatrinhcongtacs/view.ctp:115
+#: View/Taucas/view.ctp:128;175
+#: View/Tinhs/view.ctp:69;104
+#: View/Vanbandens/view.ctp:168
+#: View/Vungbiens/view.ctp:65;102;149
+#: View/Xas/view.ctp:76
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Capbacs/view.ctp:82
+#: View/Chucvuchinhquyens/view.ctp:82
+#: View/Chucvudangs/view.ctp:82
+#: View/Donvis/view.ctp:124
+#: View/Quanhegiadinhs/view.ctp:117
+#: View/Quatrinhcongtacs/view.ctp:124
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Danhsach"
+msgstr ""
+
+#: View/Capbacs/view.ctp:88
+#: View/Chucvuchinhquyens/view.ctp:88
+#: View/Chucvudangs/view.ctp:88
+#: View/Danhsaches/view.ctp:269
+#: View/Donvis/view.ctp:130
+msgid "Related Quatrinhcongtacs"
+msgstr ""
+
+#: View/Capbacs/view.ctp:94
+#: View/Chucvuchinhquyens/view.ctp:94
+#: View/Chucvudangs/view.ctp:94
+#: View/Danhsaches/view.ctp:275
+#: View/Donvis/view.ctp:136
+#: View/Quatrinhcongtacs/view.ctp:23
+msgid "Tu"
+msgstr ""
+
+#: View/Capbacs/view.ctp:95
+#: View/Chucvuchinhquyens/view.ctp:95
+#: View/Chucvudangs/view.ctp:95
+#: View/Danhsaches/view.ctp:276
+#: View/Donvis/view.ctp:137
+#: View/Quatrinhcongtacs/view.ctp:30
+msgid "Den"
+msgstr ""
+
+#: View/Capbacs/view.ctp:96
+#: View/Chucvuchinhquyens/view.ctp:96
+#: View/Chucvudangs/view.ctp:96
+#: View/Danhsaches/view.ctp:277
+#: View/Donvis/view.ctp:138
+#: View/Quatrinhcongtacs/view.ctp:37
+msgid "Lamgi"
+msgstr ""
+
+#: View/Capbacs/view.ctp:127
+#: View/Chucvuchinhquyens/view.ctp:127
+#: View/Chucvudangs/view.ctp:127
+#: View/Danhsaches/view.ctp:308
+#: View/Donvis/view.ctp:169
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quatrinhcongtac"
+msgstr ""
+
+#: View/Chucvuchinhquyens/add.ctp:6
+msgid "Add Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/edit.ctp:6
+msgid "Edit Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvuchinhquyens/index.ctp:8
+msgid "Chucvuchinhquyens"
+msgstr ""
+
+#: View/Chucvuchinhquyens/view.ctp:5
+#: View/Danhsaches/view.ctp:72
+#: View/Quatrinhcongtacs/view.ctp:58
+msgid "Chucvuchinhquyen"
+msgstr ""
+
+#: View/Chucvudangs/add.ctp:6
+msgid "Add Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/edit.ctp:6
+msgid "Edit Chucvudang"
+msgstr ""
+
+#: View/Chucvudangs/index.ctp:8
+msgid "Chucvudangs"
+msgstr ""
+
+#: View/Chucvudangs/view.ctp:5
+#: View/Danhsaches/view.ctp:65
+#: View/Quatrinhcongtacs/view.ctp:51
+msgid "Chucvudang"
+msgstr ""
+
+#: View/Dangkyhoatdongs/add.ctp:6
+msgid "Add Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/edit.ctp:6
+msgid "Edit Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/index.ctp:8
+msgid "Dangkyhoatdongs"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:5
+msgid "Dangkyhoatdong"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:23
+#: View/Danhsaches/view.ctp:150;187
+#: View/Daos/view.ctp:45
+#: View/Donvis/view.ctp:181
+#: View/Taucannbatgius/view.ctp:23
+#: View/Taucas/view.ctp:108;149
+#: View/Thoitiets/view.ctp:23
+#: View/Tinhhinhs/view.ctp:23
+#: View/Vungbiens/view.ctp:45;86;123
+#: View/Ykienchidaos/view.ctp:23
+#: View/Ykiendonggops/view.ctp:23
+msgid "Thoigian"
+msgstr ""
+
+#: View/Dangkyhoatdongs/view.ctp:30
+#: View/Danhsaches/view.ctp:151;188
+#: View/Donvis/view.ctp:182
+#: View/Thoitiets/view.ctp:30
+#: View/Vungbiens/view.ctp:87
+#: View/Ykienchidaos/view.ctp:30
+#: View/Ykiendonggops/view.ctp:30
+msgid "Noidung"
+msgstr ""
+
+#: View/Danhsaches/add.ctp:6
+msgid "Add Danhsach"
+msgstr ""
+
+#: View/Danhsaches/edit.ctp:6
+msgid "Edit Danhsach"
+msgstr ""
+
+#: View/Danhsaches/index.ctp:8
+msgid "Danhsaches"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:58
+#: View/Donvis/view.ctp:5
+#: View/Quatrinhcongtacs/view.ctp:65
+#: View/Ykienchidaos/view.ctp:51
+msgid "Donvi"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:95
+msgid "Related Baocaotins"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:109;152;192
+#: View/Donvis/view.ctp:186
+msgid "Danhsach Id"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:138
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Baocaotin"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:144
+msgid "Related Dangkyhoatdongs"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:175
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Dangkyhoatdong"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:181
+#: View/Donvis/view.ctp:175
+msgid "Related Ykienchidaos"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:189
+#: View/Donvis/view.ctp:183
+#: View/Linhvucs/view.ctp:5
+#: View/Vanbandens/view.ctp:86
+#: View/Vanbandis/view.ctp:79
+#: View/Ykienchidaos/view.ctp:37
+msgid "Linhvuc"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:190
+#: View/Donvis/view.ctp:184
+#: View/Linhvucs/view.ctp:58
+#: View/Loaivanbans/view.ctp:58
+#: View/Noiguis/view.ctp:72
+#: View/Vanbandens/view.ctp:114
+#: View/Ykienchidaos/view.ctp:44
+msgid "Thoigianhoanthanh"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:193
+#: View/Donvis/view.ctp:187
+#: View/Ykienchidaos/view.ctp:65
+msgid "Danhsach Id1"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:220
+#: View/Donvis/view.ctp:214
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Ykienchidao"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:226
+#: View/Loaiquanhes/view.ctp:39
+msgid "Related Quanhegiadinhs"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:233
+#: View/Loaiquanhes/view.ctp:46
+#: View/Quanhegiadinhs/view.ctp:30
+msgid "Namsinh"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:234
+#: View/Loaiquanhes/view.ctp:47
+#: View/Quanhegiadinhs/view.ctp:37
+msgid "Quenquan"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:235
+#: View/Loaiquanhes/view.ctp:48
+#: View/Quanhegiadinhs/view.ctp:44
+msgid "Nghenghiep"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:236
+#: View/Loaiquanhes/view.ctp:49
+#: View/Quanhegiadinhs/view.ctp:51
+msgid "Tinhtrang"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:237
+#: View/Loaiquanhes/view.ctp:50
+msgid "Loaiquanhe Id"
+msgstr ""
+
+#: View/Danhsaches/view.ctp:263
+#: View/Loaiquanhes/view.ctp:76
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quanhegiadinh"
+msgstr ""
+
+#: View/Daos/add.ctp:6
+msgid "Add Dao"
+msgstr ""
+
+#: View/Daos/edit.ctp:6
+msgid "Edit Dao"
+msgstr ""
+
+#: View/Daos/index.ctp:8
+msgid "Daos"
+msgstr ""
+
+#: View/Daos/view.ctp:5
+#: View/Tinhhinhs/view.ctp:51
+msgid "Dao"
+msgstr ""
+
+#: View/Daos/view.ctp:39
+#: View/Taucas/view.ctp:143
+#: View/Vungbiens/view.ctp:117
+msgid "Related Tinhhinhs"
+msgstr ""
+
+#: View/Daos/view.ctp:46
+#: View/Loaitaus/view.ctp:45
+#: View/Taucas/view.ctp:23;150
+#: View/Tinhhinhs/view.ctp:30
+#: View/Vungbiens/view.ctp:124
+msgid "Tentau"
+msgstr ""
+
+#: View/Daos/view.ctp:47
+#: View/Taucas/view.ctp:151
+#: View/Tinhhinhs/view.ctp:37
+#: View/Vungbiens/view.ctp:125
+msgid "Khoangcach"
+msgstr ""
+
+#: View/Daos/view.ctp:48
+#: View/Taucas/view.ctp:152
+#: View/Tinhhinhs/view.ctp:44
+#: View/Vungbiens/view.ctp:126
+msgid "Loaihoatdong"
+msgstr ""
+
+#: View/Daos/view.ctp:49
+#: View/Taucas/view.ctp:153
+#: View/Vungbiens/view.ctp:127
+msgid "Dao Id"
+msgstr ""
+
+#: View/Daos/view.ctp:50
+#: View/Taucas/view.ctp:111;154
+#: View/Vungbiens/view.ctp:48;88;128
+msgid "Vungbien Id"
+msgstr ""
+
+#: View/Daos/view.ctp:51
+#: View/Taucas/view.ctp:110;155
+#: View/Vungbiens/view.ctp:47;129
+msgid "Quocgia Id"
+msgstr ""
+
+#: View/Daos/view.ctp:52
+#: View/Taucas/view.ctp:112;156
+#: View/Vungbiens/view.ctp:49;130
+msgid "Tauca Id"
+msgstr ""
+
+#: View/Daos/view.ctp:80
+#: View/Taucas/view.ctp:184
+#: View/Vungbiens/view.ctp:158
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Tinhhinh"
+msgstr ""
+
+#: View/Donvis/add.ctp:6
+msgid "Add Donvi"
+msgstr ""
+
+#: View/Donvis/edit.ctp:6
+msgid "Edit Donvi"
+msgstr ""
+
+#: View/Donvis/index.ctp:8
+msgid "Donvis"
+msgstr ""
+
+#: View/Donvis/view.ctp:30
+#: View/Huyens/view.ctp:53
+#: View/Noiguis/view.ctp:37
+#: View/Tinhs/view.ctp:46
+#: View/Xas/view.ctp:53
+msgid "Dienthoai"
+msgstr ""
+
+#: View/Donvis/view.ctp:37
+#: View/Huyens/view.ctp:54
+#: View/Tinhs/view.ctp:47
+#: View/Xas/view.ctp:54
+msgid "Fax"
+msgstr ""
+
+#: View/Donvis/view.ctp:44
+#: View/Huyens/view.ctp:55
+#: View/Tinhs/view.ctp:48
+#: View/Xas/view.ctp:55
+msgid "Website"
+msgstr ""
+
+#: View/Donvis/view.ctp:51
+#: View/Huyens/view.ctp:30
+#: View/Tinhs/view.ctp:5
+msgid "Tinh"
+msgstr ""
+
+#: View/Donvis/view.ctp:58
+#: View/Huyens/view.ctp:5
+#: View/Xas/view.ctp:30
+msgid "Huyen"
+msgstr ""
+
+#: View/Donvis/view.ctp:65
+#: View/Xas/view.ctp:5
+msgid "Xa"
+msgstr ""
+
+#: View/Huyens/add.ctp:6
+msgid "Add Huyen"
+msgstr ""
+
+#: View/Huyens/edit.ctp:6
+msgid "Edit Huyen"
+msgstr ""
+
+#: View/Huyens/index.ctp:8
+msgid "Huyens"
+msgstr ""
+
+#: View/Huyens/view.ctp:46
+#: View/Tinhs/view.ctp:39
+#: View/Xas/view.ctp:46
+msgid "Related Donvis"
+msgstr ""
+
+#: View/Huyens/view.ctp:56
+#: View/Tinhs/view.ctp:49;91
+#: View/Xas/view.ctp:56
+msgid "Tinh Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:57;98
+#: View/Tinhs/view.ctp:50
+#: View/Xas/view.ctp:57
+msgid "Huyen Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:58
+#: View/Tinhs/view.ctp:51
+#: View/Xas/view.ctp:58
+msgid "Xa Id"
+msgstr ""
+
+#: View/Huyens/view.ctp:85
+#: View/Tinhs/view.ctp:78
+#: View/Xas/view.ctp:85
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Donvi"
+msgstr ""
+
+#: View/Huyens/view.ctp:91
+msgid "Related Xas"
+msgstr ""
+
+#: View/Huyens/view.ctp:120
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Xa"
+msgstr ""
+
+#: View/Linhvucs/add.ctp:6
+msgid "Add Linhvuc"
+msgstr ""
+
+#: View/Linhvucs/edit.ctp:6
+msgid "Edit Linhvuc"
+msgstr ""
+
+#: View/Linhvucs/index.ctp:8
+msgid "Linhvucs"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:39
+#: View/Loaivanbans/view.ctp:39
+#: View/Noiguis/view.ctp:53
+msgid "Related Vanbandens"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:45;104
+#: View/Loaivanbans/view.ctp:45;104
+#: View/Noiguis/view.ctp:59
+#: View/Vanbandens/view.ctp:23;136
+#: View/Vanbandis/view.ctp:23
+msgid "So"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:46;105
+#: View/Loaitaus/view.ctp:46
+#: View/Loaivanbans/view.ctp:46;105
+#: View/Noiguis/view.ctp:60
+#: View/Taucas/view.ctp:30
+#: View/Vanbandens/view.ctp:30;137
+#: View/Vanbandis/view.ctp:30
+msgid "Kyhieu"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:47;106
+#: View/Loaivanbans/view.ctp:47;106
+#: View/Noiguis/view.ctp:61
+#: View/Vanbandens/view.ctp:138
+msgid "Loaivanban Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:48;107
+#: View/Loaivanbans/view.ctp:48;107
+#: View/Noiguis/view.ctp:62
+#: View/Vanbandens/view.ctp:44;139
+#: View/Vanbandis/view.ctp:44
+msgid "Ngayvanban"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:49
+#: View/Loaivanbans/view.ctp:49
+#: View/Noiguis/view.ctp:63
+#: View/Vanbandens/view.ctp:51
+msgid "Ngaynhan"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:50;108
+#: View/Loaivanbans/view.ctp:50;108
+#: View/Noiguis/view.ctp:64
+#: View/Vanbandens/view.ctp:58;140
+#: View/Vanbandis/view.ctp:51
+msgid "Tenvanban"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:51
+#: View/Loaivanbans/view.ctp:51
+#: View/Noiguis/view.ctp:65
+msgid "Noigui Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:52
+#: View/Loaivanbans/view.ctp:52
+#: View/Noiguis/view.ctp:66
+#: View/Vanbandens/view.ctp:72
+#: View/Vanbandis/view.ctp:65
+msgid "Nguoiky"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:53;111
+#: View/Loaivanbans/view.ctp:53;111
+#: View/Noiguis/view.ctp:67
+#: View/Vanbandens/view.ctp:79;143
+#: View/Vanbandis/view.ctp:72
+msgid "Domat"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:54;112
+#: View/Loaivanbans/view.ctp:54;112
+#: View/Noiguis/view.ctp:68
+#: View/Vanbandens/view.ctp:144
+msgid "Linhvuc Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:55
+#: View/Loaivanbans/view.ctp:55
+#: View/Noiguis/view.ctp:69
+msgid "Nguoiduyet Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:56
+#: View/Loaivanbans/view.ctp:56
+#: View/Noiguis/view.ctp:70
+msgid "Nguoinhan Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:57
+#: View/Loaivanbans/view.ctp:57
+#: View/Noiguis/view.ctp:71
+#: View/Vanbandens/view.ctp:107
+msgid "Noidungchidao"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:92
+#: View/Loaivanbans/view.ctp:92
+#: View/Noiguis/view.ctp:106
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Vanbanden"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:98
+#: View/Loaivanbans/view.ctp:98
+#: View/Vanbandens/view.ctp:130
+msgid "Related Vanbandis"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:109
+#: View/Loaivanbans/view.ctp:109
+#: View/Vanbandens/view.ctp:141
+#: View/Vanbandis/view.ctp:58
+msgid "Noinhan"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:110
+#: View/Loaivanbans/view.ctp:110
+#: View/Vanbandens/view.ctp:142
+msgid "Nguoiky Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:113
+#: View/Loaivanbans/view.ctp:113
+#: View/Vanbandens/view.ctp:145
+#: View/Vanbandis/view.ctp:86
+msgid "Noidungvanban"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:114
+#: View/Loaivanbans/view.ctp:114
+#: View/Vanbandens/view.ctp:146
+msgid "Vanbanden Id"
+msgstr ""
+
+#: View/Linhvucs/view.ctp:145
+#: View/Loaivanbans/view.ctp:145
+#: View/Vanbandens/view.ctp:177
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Vanbandi"
+msgstr ""
+
+#: View/Loaiquanhes/add.ctp:6
+msgid "Add Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/edit.ctp:6
+msgid "Edit Loaiquanhe"
+msgstr ""
+
+#: View/Loaiquanhes/index.ctp:8
+msgid "Loaiquanhes"
+msgstr ""
+
+#: View/Loaiquanhes/view.ctp:5
+#: View/Quanhegiadinhs/view.ctp:58
+msgid "Loaiquanhe"
+msgstr ""
+
+#: View/Loaitaus/add.ctp:6
+msgid "Add Loaitaus"
+msgstr ""
+
+#: View/Loaitaus/edit.ctp:6
+msgid "Edit Loaitaus"
+msgstr ""
+
+#: View/Loaitaus/index.ctp:8
+#: View/Loaitaus/view.ctp:5
+msgid "Loaitaus"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:39
+msgid "Related Taucas"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:47
+#: View/Taucas/view.ctp:37
+msgid "Sohieu"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:48
+#: View/Taucas/view.ctp:44
+msgid "Tenchutau"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:49
+#: View/Taucas/view.ctp:51
+msgid "Thuyentruong"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:50
+#: View/Taucas/view.ctp:58
+msgid "Sothuyenvien"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:51
+#: View/Taucas/view.ctp:65
+msgid "Hanhnghe"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:52
+#: View/Taucas/view.ctp:72
+msgid "Diachict"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:53
+#: View/Taucas/view.ctp:79
+msgid "Diachitt"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:54
+msgid "Loaitau Id"
+msgstr ""
+
+#: View/Loaitaus/view.ctp:84
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Tauca"
+msgstr ""
+
+#: View/Loaivanbans/add.ctp:6
+msgid "Add Loaivanban"
+msgstr ""
+
+#: View/Loaivanbans/edit.ctp:6
+msgid "Edit Loaivanban"
+msgstr ""
+
+#: View/Loaivanbans/index.ctp:8
+msgid "Loaivanbans"
+msgstr ""
+
+#: View/Loaivanbans/view.ctp:5
+#: View/Vanbandens/view.ctp:37
+#: View/Vanbandis/view.ctp:37
+msgid "Loaivanban"
+msgstr ""
+
+#: View/Noiguis/add.ctp:6
+msgid "Add Noigui"
+msgstr ""
+
+#: View/Noiguis/edit.ctp:6
+msgid "Edit Noigui"
+msgstr ""
+
+#: View/Noiguis/index.ctp:8
+msgid "Noiguis"
+msgstr ""
+
+#: View/Noiguis/view.ctp:5
+#: View/Vanbandens/view.ctp:65
+msgid "Noigui"
+msgstr ""
+
+#: View/Noiguis/view.ctp:30
+msgid "Diachi"
+msgstr ""
+
+#: View/Quanhegiadinhs/add.ctp:6
+msgid "Add Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/edit.ctp:6
+msgid "Edit Quanhegiadinh"
+msgstr ""
+
+#: View/Quanhegiadinhs/index.ctp:8
+msgid "Quanhegiadinhs"
+msgstr ""
+
+#: View/Quanhegiadinhs/view.ctp:5
+msgid "Quanhegiadinh"
+msgstr ""
+
+#: View/Quatrinhcongtacs/add.ctp:6
+msgid "Add Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/edit.ctp:6
+msgid "Edit Quatrinhcongtac"
+msgstr ""
+
+#: View/Quatrinhcongtacs/index.ctp:8
+msgid "Quatrinhcongtacs"
+msgstr ""
+
+#: View/Quatrinhcongtacs/view.ctp:5
+msgid "Quatrinhcongtac"
+msgstr ""
+
+#: View/Quocgia/add.ctp:6
+msgid "Add Quocgium"
+msgstr ""
+
+#: View/Quocgia/edit.ctp:6
+msgid "Edit Quocgium"
+msgstr ""
+
+#: View/Quocgia/index.ctp:8
+#: View/Taucannbatgius/view.ctp:37
+#: View/Tinhhinhs/view.ctp:65
+msgid "Quocgia"
+msgstr ""
+
+#: View/Quocgia/view.ctp:5
+msgid "Quocgium"
+msgstr ""
+
+#: View/Taucannbatgius/add.ctp:6
+msgid "Add Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/edit.ctp:6
+msgid "Edit Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/index.ctp:8
+#: View/Taucannbatgius/view.ctp:5
+msgid "Taucannbatgius"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:30
+#: View/Taucas/view.ctp:109
+#: View/Vungbiens/view.ctp:46
+msgid "Toado"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:44
+#: View/Thoitiets/view.ctp:37
+#: View/Tinhhinhs/view.ctp:58
+#: View/Vungbiens/view.ctp:5
+msgid "Vungbien"
+msgstr ""
+
+#: View/Taucannbatgius/view.ctp:51
+#: View/Taucas/view.ctp:5
+#: View/Tinhhinhs/view.ctp:72
+msgid "Tauca"
+msgstr ""
+
+#: View/Taucas/add.ctp:6
+msgid "Add Tauca"
+msgstr ""
+
+#: View/Taucas/edit.ctp:6
+msgid "Edit Tauca"
+msgstr ""
+
+#: View/Taucas/index.ctp:8
+msgid "Taucas"
+msgstr ""
+
+#: View/Taucas/view.ctp:86
+msgid "Loaitau"
+msgstr ""
+
+#: View/Taucas/view.ctp:102
+#: View/Vungbiens/view.ctp:39
+msgid "Related Taucannbatgius"
+msgstr ""
+
+#: View/Taucas/view.ctp:137
+#: View/Vungbiens/view.ctp:74
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Taucannbatgiu"
+msgstr ""
+
+#: View/Thoitiets/add.ctp:6
+msgid "Add Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/edit.ctp:6
+msgid "Edit Thoitiet"
+msgstr ""
+
+#: View/Thoitiets/index.ctp:8
+msgid "Thoitiets"
+msgstr ""
+
+#: View/Thoitiets/view.ctp:5
+msgid "Thoitiet"
+msgstr ""
+
+#: View/Tinhhinhs/add.ctp:6
+msgid "Add Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/edit.ctp:6
+msgid "Edit Tinhhinh"
+msgstr ""
+
+#: View/Tinhhinhs/index.ctp:8
+msgid "Tinhhinhs"
+msgstr ""
+
+#: View/Tinhhinhs/view.ctp:5
+msgid "Tinhhinh"
+msgstr ""
+
+#: View/Tinhs/add.ctp:6
+msgid "Add Tinh"
+msgstr ""
+
+#: View/Tinhs/edit.ctp:6
+msgid "Edit Tinh"
+msgstr ""
+
+#: View/Tinhs/index.ctp:8
+msgid "Tinhs"
+msgstr ""
+
+#: View/Tinhs/view.ctp:84
+msgid "Related Huyens"
+msgstr ""
+
+#: View/Tinhs/view.ctp:113
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Huyen"
+msgstr ""
+
+#: View/Vanbandens/add.ctp:6
+msgid "Add Vanbanden"
+msgstr ""
+
+#: View/Vanbandens/edit.ctp:6
+msgid "Edit Vanbanden"
+msgstr ""
+
+#: View/Vanbandens/index.ctp:8
+msgid "Vanbandens"
+msgstr ""
+
+#: View/Vanbandens/view.ctp:5
+#: View/Vanbandis/view.ctp:93
+msgid "Vanbanden"
+msgstr ""
+
+#: View/Vanbandens/view.ctp:93
+msgid "Nguoiduyet"
+msgstr ""
+
+#: View/Vanbandens/view.ctp:100
+msgid "Nguoinhan"
+msgstr ""
+
+#: View/Vanbandis/add.ctp:6
+msgid "Add Vanbandi"
+msgstr ""
+
+#: View/Vanbandis/edit.ctp:6
+msgid "Edit Vanbandi"
+msgstr ""
+
+#: View/Vanbandis/index.ctp:8
+msgid "Vanbandis"
+msgstr ""
+
+#: View/Vanbandis/view.ctp:5
+msgid "Vanbandi"
+msgstr ""
+
+#: View/Vungbiens/add.ctp:6
+msgid "Add Vungbien"
+msgstr ""
+
+#: View/Vungbiens/edit.ctp:6
+msgid "Edit Vungbien"
+msgstr ""
+
+#: View/Vungbiens/index.ctp:8
+msgid "Vungbiens"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:80
+msgid "Related Thoitiets"
+msgstr ""
+
+#: View/Vungbiens/view.ctp:111
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Thoitiet"
+msgstr ""
+
+#: View/Xas/add.ctp:6
+msgid "Add Xa"
+msgstr ""
+
+#: View/Xas/edit.ctp:6
+msgid "Edit Xa"
+msgstr ""
+
+#: View/Xas/index.ctp:8
+msgid "Xas"
+msgstr ""
+
+#: View/Ykienchidaos/add.ctp:6
+msgid "Add Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/edit.ctp:6
+msgid "Edit Ykienchidao"
+msgstr ""
+
+#: View/Ykienchidaos/index.ctp:8
+msgid "Ykienchidaos"
+msgstr ""
+
+#: View/Ykienchidaos/view.ctp:5
+msgid "Ykienchidao"
+msgstr ""
+
+#: View/Ykiendonggops/add.ctp:6
+msgid "Add Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/edit.ctp:6
+msgid "Edit Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/index.ctp:8
+msgid "Ykiendonggops"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:5
+msgid "Ykiendonggop"
+msgstr ""
+
+#: View/Ykiendonggops/view.ctp:37
+msgid "Lydo"
+msgstr ""
+
+#: Model/Huyen.php:validation for field tinh_id
+msgid "numeric"
+msgstr ""
+
