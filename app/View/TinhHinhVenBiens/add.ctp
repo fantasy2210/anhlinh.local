@@ -8,7 +8,7 @@
                 <?php echo $this->Form->create('TinhHinhVenBien', array('role' => 'form', 'formStyle' => 'horizontal2')); ?>
                 <?php echo $this->Form->input('thoi_diem', array('class' => 'form-control datetimepicker-default', 'type' => 'text')); ?>
                 <?php
-                echo $this->Form->input('tinh_id', array('class' => 'form-control','empty'=>'Chọn tỉnh',
+                echo $this->Form->input('tinh_id', array('class' => 'form-control', 'empty' => 'Chọn tỉnh',
                     'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span> Thêm tỉnh', '#', array('escape' => false, 'class' => ' btn btn-success', 'id' => 'add-tinh-button', 'role' => 'button', 'div' => false))));
                 ?>
                 <?php
@@ -28,7 +28,8 @@
             <div class="form-actions">
                 <div class="col-md-offset-3 col-md-9">
                     <button type="submit" class="btn btn-primary">Gửi đi</button>&nbsp;
-                    <button type="button" class="btn btn-green">Cancel</button>
+                    <?php echo $this->Html->link('Hủy', array('action' => 'index'), array('class' => 'btn btn-green')) ?>
+                    
                 </div>
             </div>
         </div>

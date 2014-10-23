@@ -32,7 +32,8 @@
             <div class="form-actions">
                 <div class="col-md-offset-3 col-md-9">
                     <button type="submit" class="btn btn-primary">Gửi đi</button>&nbsp;
-                    <button type="button" class="btn btn-green">Hủy</button>
+                    <?php echo $this->Html->link('Hủy', array('action' => 'index'), array('class' => 'btn btn-green')) ?>
+
                 </div>
             </div>
         </div>
