@@ -1,10 +1,11 @@
-;(function ($, window, document, undefined) {
+;
+(function ($, window, document, undefined) {
 
     var pluginName = "metisMenu",
-        defaults = {
-            toggle: true
-        };
-        
+            defaults = {
+                toggle: true
+            };
+
     function Plugin(element, options) {
         this.element = element;
         this.settings = $.extend({}, defaults, options);
@@ -15,9 +16,23 @@
 
     Plugin.prototype = {
         init: function () {
+            /*Toan them vao de xac dinh menu*/
+            var path = window.location.pathname;
+            path = path.replace(/\/$/, "");
+            path = decodeURIComponent(path);
+            $("#side-menu a").each(function () {
 
+                var href = $(this).attr('href');
+                if (path === href) {
+                    $(this).closest('li').addClass('active');
+
+                    var treeviewmenu = $(this).closest('li').parent();
+                    treeviewmenu.parent().addClass('active');
+                }
+            });
+            /* Hết Toan them vao de xac dinh menu*/
             var $this = $(this.element),
-                $toggle = this.settings.toggle;
+                    $toggle = this.settings.toggle;
 
             $this.find('li.active').has('ul').children('ul').addClass('collapse in');
             $this.find('li').not('.active').has('ul').children('ul').addClass('collapse');
@@ -26,27 +41,27 @@
                 e.preventDefault();
                 var $a = $(this);
                 $(this).parent('li').toggleClass('active').children('ul').collapse('toggle');
-                
+
                 if ($toggle) {
                     $(this).parent('li').siblings().removeClass('active').children('ul.in').collapse('hide');
                 }
 
                 // Auto Scroll document when click
-                setTimeout(function(){
+                setTimeout(function () {
                     if ($.cookie('header') == 'header-fixed') {
                         // when sidebar fixed
                     } else {
                         if ($a.parent().hasClass('active')) {
                             $('html,body').animate({
-                                scrollTop: ($a.offset().top-100)
-                            }, 'slow');  
-                        // Scroll to top when collapsed      
+                                scrollTop: ($a.offset().top - 100)
+                            }, 'slow');
+                            // Scroll to top when collapsed      
                         } else {
-                             
+
                         }
                         /*$('html,body').animate({
-                                scrollTop: ($a.offset().top-100)
-                        }, 500); */
+                         scrollTop: ($a.offset().top-100)
+                         }, 500); */
                     }
                 }, 300);
             });

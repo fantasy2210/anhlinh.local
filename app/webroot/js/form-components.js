@@ -17,7 +17,12 @@ $(function () {
     //END PLUGINS DATE PICKER
 
     //BEGIN PLUGINS DATETIME PICKER
-    $('.datetimepicker-default').datetimepicker();
+    $('.datetimepicker-default').datetimepicker(
+            {
+                format: "YYYY-MM-DD HH:mm"
+            }
+            );
+    
     $('.datetimepicker-disable-date').datetimepicker({
         pickDate: false
     });

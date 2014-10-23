@@ -87,7 +87,7 @@ class TinhhinhsController extends AppController {
 		}
 		$daos = $this->Tinhhinh->Dao->find('list');
 		$vungbiens = $this->Tinhhinh->Vungbien->find('list');
-		$quocgias = $this->Tinhhinh->Quocgium->find('list');
+		$quocgias = $this->Tinhhinh->Quocgia->find('list');
 		$taucas = $this->Tinhhinh->Tauca->find('list');
 		$this->set(compact('daos', 'vungbiens', 'quocgias', 'taucas'));
 	}

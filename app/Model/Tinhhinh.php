@@ -15,7 +15,7 @@ class Tinhhinh extends AppModel {
  *
  * @var mixed False or table name
  */
-	public $useTable = 'tinhhinh';
+	public $useTable = 'tinh_hinh_tren_bien';
 
 /**
  * Display field

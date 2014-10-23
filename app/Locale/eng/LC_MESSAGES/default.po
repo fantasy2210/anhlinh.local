@@ -1821,11 +1821,11 @@ msgstr "Chỉnh sửa"
 
 #: View/Tinhhinhs/index.ctp:8
 msgid "Tinhhinhs"
-msgstr "Tình hình"
+msgstr "Tình hình trên biển"
 
 #: View/Tinhhinhs/view.ctp:5
 msgid "Tinhhinh"
-msgstr "Tình hình"
+msgstr "Tình hình trên biển"
 
 #: View/Tinhs/add.ctp:6
 msgid "Add Tinh"
@@ -2115,6 +2115,43 @@ msgstr "Nhóm vật chất"
 #: Model/Huyen.php:validation for field tinh_id
 msgid "Tennhom"
 msgstr "Tên nhóm"
+
+#dịch cho phần tình hình ven biển
+msgid "Tieu De"
+msgstr "Tiêu đề"
+msgid "Noi Dung"
+msgstr "Nội dung"
+msgid "Thoi Diem"
+msgstr "Thời điểm"
+msgid "Nguon"
+msgstr " Nguồn"
+msgid "Nguoi Lay Tin"
+msgstr " Người lấy tin"
+msgid "Add Tinh Hinh Ven Bien"
+msgstr " Thêm tình hình ven biển"
+msgid "TinhHinhVenBiens"
+msgstr " Tình hình ven biển"
+msgid "Tinh Hinh Ven Biens"
+msgstr " Tình hình ven biển"
+
+msgid "Edit Tinh Hinh Ven Bien"
+msgstr "Cập nhật mẫu tin tình hình ven biển"
+
+msgid "The tinh hinh ven bien has been saved."
+msgstr "Đã lưu thành công"
+
+msgid "created"
+msgstr "Ngày đăng"
+msgid "The tinh hinh ven bien has been deleted."
+msgstr "Đã xóa"
+msgid "Tinh Hinh Ven Bien"
+msgstr "Thông tin tình hình ven biển"
+
+# hết đoạn dịch cho phần tình hình ven biển
+
+
+
+
 
 
 

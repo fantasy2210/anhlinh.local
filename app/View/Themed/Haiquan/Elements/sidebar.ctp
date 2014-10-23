@@ -21,11 +21,11 @@
                         </li>
                         <li<?php echo $this->Sidebar->sidebar("/","");?>><a href="/"><i class="fa fa-tachometer fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Bàn làm việc</span></a>
                         </li>
-						<li<?php echo $this->Sidebar->sidebar("tinhhinhs,daos,vungbiens,quocgia,taucannbatgius","");?>><a href="#"><i class="fa fa-bullhorn fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Tình hình</span><span class="fa arrow"></span></a>						
+						<li<?php echo $this->Sidebar->sidebar("tinh_hinh_ven_biens,daos,vungbiens,quocgia,taucannbatgius","");?>><a href="#"><i class="fa fa-bullhorn fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Tình hình</span><span class="fa arrow"></span></a>						
 							<ul class="nav nav-second-level">
 								<li<?php echo $this->Sidebar->sidebar("tinhhinhs","");?>><a href="/tinhhinhs"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Tình hình trên biển</span></a>
 								</li>
-								<li<?php echo $this->Sidebar->sidebar("tinhhinhs","");?>><a href="/tinhhinhs"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Tình hình ven biển</span></a>
+								<li<?php echo $this->Sidebar->sidebar("tinh_hinh_ven_biens","");?>><a href="/tinh_hinh_ven_biens"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Tình hình ven biển</span></a>
 								</li>
 								<li<?php echo $this->Sidebar->sidebar("taucannbatgius","");?>><a href="/taucannbatgius"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Bắt giữ tàu cá</span></a>
 								</li>
@@ -141,13 +141,13 @@
                          
 						
 						
-						<li<?php echo $this->Sidebar->sidebar("daos,vungbiens,quocgia","");?>><a href="#"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Quản lý danh mục</span><span class="fa arrow"></span></a>								
+						<li<?php echo $this->Sidebar->sidebar("daos,vungbiens,quocgia","tinhs", "huyens","xas");?>><a href="#"><i class="fa fa-angle-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="menu-title">Quản lý danh mục</span><span class="fa arrow"></span></a>								
 							<ul class="nav nav-second-level">
-								<li<?php echo $this->Sidebar->sidebar("taucas","");?>><a href="/taucas"><i class="fa fa-double-right"></i><span class="submenu-title">
+								<li<?php echo $this->Sidebar->sidebar("taucas","");?>><a href="/taucas"><i class="fa fa-angle-double-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="submenu-title">
 								Danh sách Tàu
 								</span></a>
                                 </li>
-								<li<?php echo $this->Sidebar->sidebar("loaitaus","");?>><a href="/loaitaus"><i class="fa fa-double-right"></i><span class="submenu-title">
+								<li<?php echo $this->Sidebar->sidebar("loaitaus","");?>><a href="/loaitaus"><i class="fa fa-angle-double-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="submenu-title">
 								Loại tàu cá
 								</span></a>
                                 </li>
@@ -156,6 +156,19 @@
 								<li<?php echo $this->Sidebar->sidebar("vungbiens","");?>><a href="/vungbiens"><i class="fa fa-angle-double-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="submenu-title">Vùng biển</span></a>
 								</li>
 								<li<?php echo $this->Sidebar->sidebar("quocgia","");?>><a href="/quocgia"><i class="fa fa-angle-double-right fa-fw"><div class="icon-bg bg-orange"></div></i><span class="submenu-title">Quốc gia</span></a>
+								</li>
+                                                                <li<?php echo $this->Sidebar->sidebar("tinhs","");?>>
+                                                                    <a href="/tinhs"><i class="fa fa-angle-double-right fa-fw">
+                                                                            <div class="icon-bg bg-orange"></div></i><span class="submenu-title">Tỉnh</span></a>
+								</li>
+                                                                <li<?php echo $this->Sidebar->sidebar("huyens","");?>>
+                                                                    <a href="/huyens"><i class="fa fa-angle-double-right fa-fw">
+                                                                            <div class="icon-bg bg-orange"></div></i><span class="submenu-title">Huyện</span></a>
+								</li>
+                                                                
+                                                                <li<?php echo $this->Sidebar->sidebar("xas","");?>>
+                                                                    <a href="/xas"><i class="fa fa-angle-double-right fa-fw">
+                                                                            <div class="icon-bg bg-orange"></div></i><span class="submenu-title">Xã</span></a>
 								</li>
 							</ul>
 						</li>

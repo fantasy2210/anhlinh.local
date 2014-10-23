@@ -1,0 +1,48 @@
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+$(function () {
+    $('#add-xa-button').click(function (e) {
+        bootbox.dialog({
+            title: 'Thêm xã mới',
+            message: $('#XaAddForm'),
+            show: false // We will show it manually later
+        })
+                .on('shown.bs.modal', function () {
+                    $('#XaAddForm').show()
+                            .bootstrapValidator('resetForm', true); // Reset form
+                })
+                .on('hide.bs.modal', function (e) {
+                    // Bootbox will remove the modal (including the body which contains the login form)
+                    // after hiding the modal
+                    // Therefor, we need to backup the form
+                    $('#XaAddForm').hide().appendTo('body');
+                }).on('success.form.bv', function (e) {
+            // Prevent form submission
+            e.preventDefault();
+            var $form = $(e.target), // The form instance
+                    bv = $form.data('bootstrapValidator');   // BootstrapValidator instance
+
+            // Use Ajax to submit form data
+
+            $.post('/xas/add', $form.serialize(), function (result) {
+                if (!result.success) {
+                    bootbox.alert(result.message);
+                } else {
+                    // ... Process the result ...
+                    $("#TinhHinhVenBienTinhId").val(result.tinh_id).prop('selected', true);
+                    $("#TinhHinhVenBienHuyenId").val(result.huyen_id).prop('selected', true);
+                    $("#TinhHinhVenBienXaId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
+
+                    // Hide the modal containing the form
+                    $form.parents('.bootbox').modal('hide');
+                }
+
+            }, 'json');
+        })
+                .modal('show');
+    });
+});
