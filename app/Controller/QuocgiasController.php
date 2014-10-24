@@ -3,13 +3,15 @@
 App::uses('AppController', 'Controller');
 
 /**
- * Vungbiens Controller
+ * Quocgia Controller
  *
- * @property Vungbien $Vungbien
+ * @property Quocgium $Quocgium
  * @property PaginatorComponent $Paginator
  * @property SessionComponent $Session
  */
-class VungbiensController extends AppController {
+class QuocgiasController extends AppController {
+
+    public $uses = 'Quocgia';
 
     /**
      * Components
@@ -24,8 +26,8 @@ class VungbiensController extends AppController {
      * @return void
      */
     public function index() {
-        $this->Vungbien->recursive = 0;
-        $this->set('vungbiens', $this->Paginator->paginate());
+        $this->Quocgia->recursive = 0;
+        $this->set('quocgia', $this->Paginator->paginate());
     }
 
     /**
@@ -36,11 +38,12 @@ class VungbiensController extends AppController {
      * @return void
      */
     public function view($id = null) {
-        if (!$this->Vungbien->exists($id)) {
-            throw new NotFoundException(__('Invalid vungbien'));
+        //pr($this);die;
+        if (!$this->Quocgia->exists($id)) {
+            throw new NotFoundException(__('Invalid Quocgia'));
         }
-        $options = array('conditions' => array('Vungbien.' . $this->Vungbien->primaryKey => $id));
-        $this->set('vungbien', $this->Vungbien->find('first', $options));
+        $options = array('conditions' => array('Quocgia.' . $this->Quocgia->primaryKey => $id));
+        $this->set('quocgia', $this->Quocgia->find('first', $options));
     }
 
     /**
@@ -50,11 +53,11 @@ class VungbiensController extends AppController {
      */
     public function add() {
         if (!empty($this->request->data)) {
-            if ($this->Vungbien->save($this->request->data)) {
+            if ($this->Quocgia->save($this->request->data)) {
                 if ($this->request->is('ajax')) {
                     $this->autoRender = false;
 
-                    echo json_encode(array('success' => 1, 'id' => $this->Vungbien->id, 'name' => $this->Vungbien->field('ten')));
+                    echo json_encode(array('success' => 1, 'id' => $this->Quocgia->id, 'name' => $this->Quocgia->field('ten')));
                     exit;
                 } else {
                     $this->Session->setFlash('Thêm thành công');
@@ -80,19 +83,19 @@ class VungbiensController extends AppController {
      * @return void
      */
     public function edit($id = null) {
-        if (!$this->Vungbien->exists($id)) {
-            throw new NotFoundException(__('Invalid vungbien'));
+        if (!$this->Quocgia->exists($id)) {
+            throw new NotFoundException(__('Invalid Quocgia'));
         }
         if ($this->request->is(array('post', 'put'))) {
-            if ($this->Vungbien->save($this->request->data)) {
-                $this->Session->setFlash(__('The vungbien has been saved.'), 'default', array('class' => 'alert alert-success'));
+            if ($this->Quocgia->save($this->request->data)) {
+                $this->Session->setFlash(__('The Quocgia has been saved.'), 'default', array('class' => 'alert alert-success'));
                 return $this->redirect(array('action' => 'index'));
             } else {
-                $this->Session->setFlash(__('The vungbien could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
+                $this->Session->setFlash(__('The Quocgia could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
             }
         } else {
-            $options = array('conditions' => array('Vungbien.' . $this->Vungbien->primaryKey => $id));
-            $this->request->data = $this->Vungbien->find('first', $options);
+            $options = array('conditions' => array('Quocgia.' . $this->Quocgia->primaryKey => $id));
+            $this->request->data = $this->Quocgia->find('first', $options);
         }
     }
 
@@ -104,15 +107,15 @@ class VungbiensController extends AppController {
      * @return void
      */
     public function delete($id = null) {
-        $this->Vungbien->id = $id;
-        if (!$this->Vungbien->exists()) {
-            throw new NotFoundException(__('Invalid vungbien'));
+        $this->Quocgia->id = $id;
+        if (!$this->Quocgia->exists()) {
+            throw new NotFoundException(__('Invalid quocgium'));
         }
         $this->request->onlyAllow('post', 'delete');
-        if ($this->Vungbien->delete()) {
-            $this->Session->setFlash(__('The vungbien has been deleted.'), 'default', array('class' => 'alert alert-success'));
+        if ($this->Quocgia->delete()) {
+            $this->Session->setFlash(__('The quocgium has been deleted.'), 'default', array('class' => 'alert alert-success'));
         } else {
-            $this->Session->setFlash(__('The vungbien could not be deleted. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
+            $this->Session->setFlash(__('The quocgium could not be deleted. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
         }
         return $this->redirect(array('action' => 'index'));
     }

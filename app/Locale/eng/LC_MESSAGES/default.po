@@ -1623,7 +1623,7 @@ msgstr "Thuyền trưởng"
 #: View/Loaitaus/view.ctp:50
 #: View/Taucas/view.ctp:58
 msgid "Sothuyenvien"
-msgstr "Số thuyenf viên"
+msgstr "Số thuyền viên"
 
 #: View/Loaitaus/view.ctp:51
 #: View/Taucas/view.ctp:65
@@ -1633,7 +1633,7 @@ msgstr "Hành nghề"
 #: View/Loaitaus/view.ctp:52
 #: View/Taucas/view.ctp:72
 msgid "Diachict"
-msgstr ""
+msgstr "Địa chỉ CT"
 
 #: View/Loaitaus/view.ctp:53
 #: View/Taucas/view.ctp:79

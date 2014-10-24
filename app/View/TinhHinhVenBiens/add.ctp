@@ -17,8 +17,13 @@
                 )));
                 ?>
                 <?php
-                echo $this->Form->input('xa_id', array('class' => 'form-control', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span> Thêm xã', '#', array('escape' => false, 'class' => 'add-button btn btn-success fancybox.ajax', 'id' => 'add-xa-button', 'role' => 'button', 'div' => false)
-                )));
+                echo $this->Form->input('xa_id', array('class' => 'form-control', 
+                    'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span> Thêm xã', '#', 
+                            array('escape' => false, 'class' => 'add-button btn btn-success fancybox.ajax', 
+                                'id' => 'add-xa-button', 'role' => 'button', 'div' => false)
+                )
+                    )
+                        );
                 ?>
                 <?php echo $this->Form->input('tieu_de', array('class' => 'form-control')); ?>
                 <?php echo $this->Form->input('noi_dung', array('class' => 'form-control')); ?>

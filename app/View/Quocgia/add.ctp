@@ -3,7 +3,7 @@
 	<div class="row">		
 		<div class="col-md-12">		
 		<div class="panel panel-default">
-		<div class="panel-heading"><?php echo __('Add Quocgium'); ?></div>
+		<div class="panel-heading"><?php echo __('Add Quocgia'); ?></div>
 						<div class="panel-body">
 			<?php echo $this->Form->create('Quocgium', array('role' => 'form','formStyle' => 'horizontal2')); ?>
 
@@ -19,6 +19,7 @@
 		</form>
 		</div><!-- end col md 12 -->
 	</div><!-- end row -->
+        
 </div>
 <link type="text/css" rel="stylesheet" href="/vendors/select2/select2-madmin.css"><link type="text/css" rel="stylesheet" href="/vendors/bootstrap-select/bootstrap-select.min.css"><link type="text/css" rel="stylesheet" href="/vendors/multi-select/css/multi-select-madmin.css">
 <link type="text/css" rel="stylesheet" href="/vendors/bootstrap-datepicker/css/datepicker.css"><link type="text/css" rel="stylesheet" href="/vendors/bootstrap-daterangepicker/daterangepicker-bs3.css">
