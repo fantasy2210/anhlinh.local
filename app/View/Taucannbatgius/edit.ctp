@@ -9,17 +9,17 @@
                 <?php echo $this->Form->input('thoigian', array('class' => 'form-control datetimepicker-default', 'type' => 'text')); ?>
                 <?php echo $this->Form->input('toado', array('class' => 'form-control')); ?>
                 <?php
-                echo $this->Form->input('quocgia_id', array('class' => 'form-control', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
+                echo $this->Form->input('quocgia_id', array('class' => 'form-control select2', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
                         'id' => 'add-quocgia-button', 'role' => 'button', 'div' => false)
                 )));
                 ?>
                 <?php
-                echo $this->Form->input('vungbien_id', array('class' => 'form-control', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
+                echo $this->Form->input('vungbien_id', array('class' => 'form-control select2', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
                         'id' => 'add-vungbien-button', 'role' => 'button', 'div' => false)
                 )));
                 ?>
                 <?php
-                echo $this->Form->input('tauca_id', array('class' => 'form-control', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
+                echo $this->Form->input('tauca_id', array('class' => 'form-control select2', 'after' => $this->Html->link('<span class="glyphicon glyphicon-plus"></span>', '#', array('escape' => false, 'class' => 'add-button btn btn-success',
                         'id' => 'add-tauca-button', 'role' => 'button', 'div' => false)
                 )));
                 ?>
@@ -54,7 +54,7 @@
 <?php
 $this->Html->script('/vendors/bootstrap-select/bootstrap-select.min', array('block' => 'scriptBottom', 'inline' => false));
 $this->Html->script('/vendors/bootstrap-datepicker/js/bootstrap-datepicker', array('block' => 'scriptBottom', 'inline' => false));
-$this->Html->script('/vendors/multi-select/js/jquery.multi-select', array('block' => 'scriptBottom', 'inline' => false));
+//$this->Html->script('/vendors/multi-select/js/jquery.multi-select', array('block' => 'scriptBottom', 'inline' => false));
 $this->Html->script('form-components', array('block' => 'scriptBottom', 'inline' => false));
 $this->Html->script('ui-dropdown-select', array('block' => 'scriptBottom', 'inline' => false));
 ?>

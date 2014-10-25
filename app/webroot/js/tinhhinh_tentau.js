@@ -1,5 +1,5 @@
 $(function(){
-	$("#TinhhinhTentau").select2({
+	$("#TaucaId").select2({
         placeholder: 'Vui lòng chọn tàu cá',
 		multiple: false,
 		minimumInputLength: 2,
@@ -10,7 +10,7 @@ $(function(){
             data: function (term, page) {
                 return {
                     term: term, //search term
-                    page_limit: 10 // page size
+                    page_limit: 50 // page size
                 };
             },
             results: function (data, page) {				
@@ -31,7 +31,7 @@ $(function(){
 		},
 		formatSelection: format
     });
-	$("#TinhhinhTentau").on("change",function(e) {
+	$("#TaucaId").on("change",function(e) {
 		if(e && e.removed)
 		{
 		   console.log(e);

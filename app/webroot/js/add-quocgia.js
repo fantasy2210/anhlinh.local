@@ -52,7 +52,8 @@ $(function () {
                 } else {
                     // ... Process the result ...
                     $("#TaucannbatgiuQuocgiaId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
-                    //Xóa trắng huyện và xã
+                    $("#TaucannbatgiuQuocgiaId").select2('val',result.id);
+//Xóa trắng huyện và xã
                     //$("#TinhHinhVenBienHuyenId").empty();
                     //$("#TinhHinhVenBienXaId").empty();
                     // Hide the modal containing the form

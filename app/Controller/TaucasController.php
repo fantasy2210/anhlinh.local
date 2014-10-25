@@ -96,13 +96,31 @@ class TaucasController extends AppController {
      * @return void
      */
     public function add() {
-        if ($this->request->is('post')) {
+        if (!empty($this->request->data)) {
             $this->Tauca->create();
             if ($this->Tauca->save($this->request->data)) {
-                $this->Session->setFlash(__('The tauca has been saved.'), 'default', array('class' => 'alert alert-success'));
-                return $this->redirect(array('action' => 'index'));
+                if ($this->request->is('ajax')) {
+                    $this->autoRender = false;
+
+                    echo json_encode(array(
+                        'success' => 1,
+                        'id' => $this->Tauca->id,
+                        'name' => $this->Tauca->field('tentau')
+                        
+                    ));
+                    exit;
+                } else {
+                    $this->Session->setFlash('Thêm thành công');
+                    $this->redirect(array('action' => 'index'));
+                }
             } else {
-                $this->Session->setFlash(__('The tauca could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
+                if ($this->request->is('ajax')) {
+                    $this->autoRender = false;
+                    echo json_encode(array('success' => 0, 'message' => 'Thêm không thành công'));
+                    exit;
+                } else {
+                    $this->Session->setFlash('Lưu không thành công');
+                }
             }
         }
         $loaitaus = $this->Tauca->Loaitau->find('list');

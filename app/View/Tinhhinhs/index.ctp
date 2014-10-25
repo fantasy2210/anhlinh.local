@@ -25,7 +25,6 @@
 					<tr>
 						<th><?php echo $this->Paginator->sort('id'); ?></th>
 						<th><?php echo $this->Paginator->sort('thoigian'); ?></th>
-						<th><?php echo $this->Paginator->sort('tentau'); ?></th>
 						<th><?php echo $this->Paginator->sort('khoangcach'); ?></th>
 						<th><?php echo $this->Paginator->sort('loaihoatdong'); ?></th>
 						<th><?php echo $this->Paginator->sort('dao_id'); ?></th>
@@ -40,7 +39,6 @@
 					<tr>
 						<td><?php echo h($tinhhinh['Tinhhinh']['id']); ?>&nbsp;</td>
 						<td><?php echo h($tinhhinh['Tinhhinh']['thoigian']); ?>&nbsp;</td>
-						<td><?php echo h($tinhhinh['Tinhhinh']['tentau']); ?>&nbsp;</td>
 						<td><?php echo h($tinhhinh['Tinhhinh']['khoangcach']); ?>&nbsp;</td>
 						<td><?php echo h($tinhhinh['Tinhhinh']['loaihoatdong']); ?>&nbsp;</td>
 								<td>

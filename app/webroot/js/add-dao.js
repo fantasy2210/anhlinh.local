@@ -6,39 +6,38 @@
 
 $(function () {
     /* Validate dữ liệu */
-    $('#VungbienAddForm').bootstrapValidator({
+    $('#DaoAddForm').bootstrapValidator({
         feedbackIcons: {
             valid: 'glyphicon glyphicon-ok',
             invalid: 'glyphicon glyphicon-remove',
             validating: 'glyphicon glyphicon-refresh'
         },
         fields: {
-            "data[Vungbien][ten]": {
+            "data[Dao][ten]": {
                 validators: {
                     notEmpty: {
-                        message: 'Phải nhập tên vùng biển'
+                        message: 'Phải nhập tên đảo chứ !'
                     }
                 }
             }
         }
     });
-    $('#add-vungbien-button').click(function (e) {
-
+    $('#add-dao-button').click(function (e) {
         bootbox
                 .dialog({
-                    title: 'Thêm vùng biển mới',
-                    message: $('#VungbienAddForm'),
+                    title: 'Thêm đảo mới',
+                    message: $('#DaoAddForm'),
                     show: false // We will show it manually later
                 })
                 .on('shown.bs.modal', function () {
-                    $('#VungbienAddForm').show()
+                    $('#DaoAddForm').show()
                             .bootstrapValidator('resetForm', true); // Reset form
                 })
                 .on('hide.bs.modal', function (e) {
                     // Bootbox will remove the modal (including the body which contains the login form)
                     // after hiding the modal
                     // Therefor, we need to backup the form
-                    $('#VungbienAddForm').hide().appendTo('body');
+                    $('#DaoAddForm').hide().appendTo('body');
                 }).on('success.form.bv', function (e) {
             // Prevent form submission
             e.preventDefault();
@@ -52,8 +51,8 @@ $(function () {
                     bootbox.alert(result.message);
                 } else {
                     // ... Process the result ...
-                    $("#TaucannbatgiuVungbienId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
-                    $("#TaucannbatgiuVungbienId").select2('val',result.id);
+                    $("#TinhhinhDaoId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
+                    $("#TinhhinhDaoId").select2('val', result.id);
 //Xóa trắng huyện và xã
                     //$("#TinhHinhVenBienHuyenId").empty();
                     //$("#TinhHinhVenBienXaId").empty();

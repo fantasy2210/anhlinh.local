@@ -50,8 +50,9 @@ $(function () {
                     bootbox.alert(result.message);
                 } else {
                     // ... Process the result ...
-                    $("#TaucannbatgiuVungbienId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
-                    //Xóa trắng huyện và xã
+                    $("#TaucaId").append('<option value="' + result.id + '" selected="selected">' + result.name + '</option>');
+                    $("#TaucaId").select2('val',result.id);
+//Xóa trắng huyện và xã
                     //$("#TinhHinhVenBienHuyenId").empty();
                     //$("#TinhHinhVenBienXaId").empty();
                     // Hide the modal containing the form
