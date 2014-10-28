@@ -28,15 +28,15 @@
                             'id' => 'add-quocgia-button', 'role' => 'button', 'div' => false)
                     )));
                     ?>
-                    <?php echo $this->Form->input('thoigian', array('class' => 'datetimepicker-default form-control',  'type' => "text")); ?>
-<?php echo $this->Form->input('khoangcach', array('class' => 'form-control')); ?>
-<?php echo $this->Form->input('loaihoatdong', array('class' => 'form-control')); ?>
+                    <?php echo $this->Form->input('thoigian', array('class' => 'datetimepicker-default form-control', 'type' => "text")); ?>
+                    <?php echo $this->Form->input('khoangcach', array('class' => 'form-control')); ?>
+                    <?php echo $this->Form->input('loaihoatdong', array('class' => 'form-control')); ?>
 
                 </div>
                 <div class="form-actions">
                     <div class="col-md-offset-3 col-md-9">
                         <button type="submit" class="btn btn-primary">Lưu</button>&nbsp;
-<?php echo $this->Html->link('Hủy', array('action' => 'index'), array('class' => 'btn btn-green')) ?>
+                        <?php echo $this->Html->link('Hủy', array('action' => 'index'), array('class' => 'btn btn-green')) ?>
 
                     </div>
                 </div>
